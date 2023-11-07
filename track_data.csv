@@ -1,0 +1,1001 @@
+,artist_name,artist_id,track_name,track_id,popularity,artist_popularity,genres,followers
+0,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,I Remember Everything (feat. Kacey Musgraves),4KULAymBBJcPRpk1yO4dOG,93,86,"['classic oklahoma country', 'modern country pop']",2496766
+1,Drake,3TVXtAsR1Inumwj472S9r4,IDGAF (feat. Yeat),2YSzYUF3jWqb9YP9VXmpjE,94,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+2,Mitski,2uYWxilOVlUdk4oV9DvwqK,My Love Mine All Mine,3vkCueOmm7xQDoJ17W1Pm3,97,81,"['brooklyn indie', 'pov: indie']",5590677
+3,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,fukumean,4rXLjWdF2ZZpXCVTfWcshS,95,82,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6160788
+4,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Paint The Town Red,2IGMVunIBsBLtEQyoI1Mu7,98,87,"['dance pop', 'pop']",27104305
+5,Tate McRae,45dkTj5sMRSjrmBSBeiHym,greedy,3rUGC1vUpkDG9CZFHMur1t,100,81,"['alt z', 'pop']",3954334
+6,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MONACO,4MjDJD8cW7iVeWInc2Bdyj,98,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+7,Drake,3TVXtAsR1Inumwj472S9r4,First Person Shooter (feat. J. Cole),7aqfrAY2p9BUSiupwk3svU,92,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+8,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,vampire,1kuGVB7EU95pJObxwvfwKS,95,87,['pop'],29609037
+9,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,I KNOW ?,6wsqVwoiVH2kde4k4KKAFU,92,90,"['hip hop', 'rap', 'slap house']",24940449
+10,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Is It Over Now? (Taylor's Version) (From The Vault),1Iq8oo9XkmmvCQiGOfORiz,93,100,['pop'],91476272
+11,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Now That We Don't Talk (Taylor's Version) (From The Vault),5KD6AEm19QnMbfWpfoOHMl,91,100,['pop'],91476272
+12,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,bad idea right?,3IX0yuEVvDbnqUwMBB3ouC,93,87,['pop'],29609037
+13,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"""Slut!"" (Taylor's Version) (From The Vault)",71BqAINEnezjQfxE4VuJfq,91,100,['pop'],91476272
+14,Kenya Grace,7uMDnSZyUYNBPLhPMNuaM2,Strangers,5mjYQaktjmjcMKcUIcqz4s,98,76,['singer-songwriter pop'],337659
+15,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Say Don't Go (Taylor's Version) (From The Vault),4NioO5R9sHEZh4cGzMHyNt,90,100,['pop'],91476272
+16,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Agora Hills,7dJYggqjKo71KI9sLzqCs8,91,87,"['dance pop', 'pop']",27104305
+17,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,LADY GAGA,7mXuWTczZNxG5EDcjFEuJR,95,90,"['corridos tumbados', 'sad sierreno']",8745657
+18,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"What Was I Made For? [From The Motion Picture ""Barbie""]",6wf7Yu7cxBSPrRlWeSeK0Q,95,86,"['art pop', 'pop']",88370218
+19,Luke Combs,718COspgdWOnwOFpJHRZHS,Fast Car,1Lo0QY9cvc8sUB2vnIOxDT,89,81,"['contemporary country', 'country']",9487592
+20,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Hey Driver (feat. The War and Treaty),4pCbJC43j3gSqG6Fen6upD,87,86,"['classic oklahoma country', 'modern country pop']",2496766
+21,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,MELTDOWN (feat. Drake),67nepsnrcZkowTxMWigSbb,90,90,"['hip hop', 'rap', 'slap house']",24940449
+22,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Thinkin’ Bout Me,0PAcdVzhPO4gq1Iym9ESnK,86,85,['contemporary country'],7537077
+23,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Suburban Legends (Taylor's Version) (From The Vault),6T0sEnqjmHISIKwFETeeiP,88,100,['pop'],91476272
+24,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Style (Taylor's Version),1hjRhYpWyqDpPahmSlUTlc,90,100,['pop'],91476272
+25,Bad Bunny,4q3ewBCX7sLwd24euuV69X,PERRO NEGRO,7iQXYTyuG13aoeHxGG28Nh,97,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+26,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,get him back!,2gyxAWHebV7xPYVxqoi86f,91,87,['pop'],29609037
+27,Tyla,3SozjO3Lat463tQICI9LcE,Water,5aIVCx5tnk0ntmdiinnYvw,95,73,[],229967
+28,Drake,3TVXtAsR1Inumwj472S9r4,Virginia Beach,3eP13S8D5m2cweMEg3ZDed,88,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+29,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Blank Space (Taylor's Version),45wMBGri1PORPjM9PwFfrS,89,100,['pop'],91476272
+30,Oliver Anthony Music,6IkfE2JyVoKwBZXvuytKX3,Rich Men North of Richmond,78Du4CMFgnhdlG33gblkiP,87,68,['modern country pop'],707110
+31,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Is It Over Now? (Taylor's Version) (From The Vault),6IG3sQ8s9nfk6TUlVzRhbN,86,100,['pop'],91476272
+32,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Welcome To New York (Taylor's Version),1hR8BSuEqPCCZfv93zzzz9,88,100,['pop'],91476272
+33,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Out Of The Woods (Taylor's Version),045ZeOHPIzhxxsm8bq5kyE,88,100,['pop'],91476272
+34,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Last Night,7K3BhSpAxZBznislvUMVtn,86,85,['contemporary country'],7537077
+35,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Last Night,59uQI0PADDKeE6UZDTJEe8,87,85,['contemporary country'],7537077
+36,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,TELEKINESIS (feat. SZA & Future),1i9lZvlaDdWDPyXEE95aiq,89,90,"['hip hop', 'rap', 'slap house']",24940449
+37,Drake,3TVXtAsR1Inumwj472S9r4,Rich Baby Daddy (feat. Sexyy Red & SZA),1yeB8MUNeLo9Ek1UEpsyz6,88,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+38,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Now That We Don't Talk (Taylor's Version) (From The Vault),5QUIK7ZtziW8kGWo8RqopF,85,100,['pop'],91476272
+39,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Religiously,0bILU0UiNDmA5Ff6whhb2R,85,72,"['contemporary country', 'modern country pop']",731170
+40,Taylor Swift,06HL4z0CvFAxyc27GXpf02,All You Had To Do Was Stay (Taylor's Version),6GXgd1BPD9bUpqw5AntGV5,86,100,['pop'],91476272
+41,Bad Bunny,4q3ewBCX7sLwd24euuV69X,FINA,3nNmRE0DxHC6ZaKkrpUumS,93,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+42,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Dance The Night - From Barbie The Album,1vYXt7VSjH9JIM5oRRo7vA,94,84,"['dance pop', 'pop', 'uk pop']",41961753
+43,David Kushner,33NVpKoXjItPwUJTMZIOiY,Daylight,1odExI7RdWc4BT515LTAwj,95,75,['gen z singer-songwriter'],1457039
+44,Jimin,1oSPZhvZMIrWW5I41kPkkY,Like Crazy,3Ua0m0YmEjrMi9XErKcNiR,94,80,['k-pop'],6820194
+45,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,You Proof,5W4kiM2cUYBJXKRudNyxjW,85,85,['contemporary country'],7537077
+46,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Tourniquet,3EvZ03hGAFwGZ2Ebcu86YH,85,86,"['classic oklahoma country', 'modern country pop']",2496766
+47,Taylor Swift,06HL4z0CvFAxyc27GXpf02,New Romantics (Taylor's Version),2vPMoMDXxu9uX1igWZmXSG,86,100,['pop'],91476272
+48,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Clean (Taylor's Version),2ByBBvpR9b7IynvRmnG7kG,86,100,['pop'],91476272
+49,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Say Don't Go (Taylor's Version) (From The Vault),3CCRVu4F91Qp2mnGjmWBrf,84,100,['pop'],91476272
+50,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,all-american bitch,34sOdxWu9FljH84UXdRwu1,88,87,['pop'],29609037
+51,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Seven (feat. Latto) (Explicit Ver.),7x9aauaA9cu6tyfpHnqDLo,97,88,['k-pop'],10924148
+52,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,FE!N (feat. Playboi Carti),42VsgItocQwOQC3XWZ8JNA,90,90,"['hip hop', 'rap', 'slap house']",24940449
+53,Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Wish You Would (Taylor's Version),43y1WpBdnEy5TR9aZoSQL9,85,100,['pop'],91476272
+54,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Bad Blood (feat. Kendrick Lamar) (Taylor's Version),6qAcApH8obo8eqatCKUHd9,85,100,['pop'],91476272
+55,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Wildest Dreams (Taylor's Version),1K39ty6o1sHwwlZwO6a7wK,86,100,['pop'],91476272
+56,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"""Slut!"" (Taylor's Version) (From The Vault)",0CD7DzeCsuPJygddqlUVYa,84,100,['pop'],91476272
+57,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Shake It Off (Taylor's Version),3pv7Q5v2dpdefwdWIvE7yH,86,100,['pop'],91476272
+58,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,3D (feat. Jack Harlow),6ehWdR7cGDXnT7aKEASJxE,95,88,['k-pop'],10924148
+59,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Bad Blood (Taylor's Version),64FzgoLZ3oXu2SriZblHic,85,100,['pop'],91476272
+60,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,500lbs,1xWkeSPhf3bZqHY7Ncz8vp,85,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+61,Taylor Swift,06HL4z0CvFAxyc27GXpf02,How You Get The Girl (Taylor's Version),75W3SngKzTuoQ94uLf3y82,85,100,['pop'],91476272
+62,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Barbie World (with Aqua) [From Barbie The Album],741UUVE2kuITl0c6zuqqbO,90,84,"['hip pop', 'pop', 'queens hip hop', 'rap']",29916959
+63,Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Know Places (Taylor's Version),2f0GI2ZLUtbGqFx8t2Gk6A,85,100,['pop'],91476272
+64,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Wonderland (Taylor's Version),2ve0kuaWUCt4Zx8x4bf1MR,85,100,['pop'],91476272
+65,Myke Towers,7iK8PXO48WeuP03g8YR51W,LALA,7ABLbnD53cQK00mhcaOUVG,97,84,"['reggaeton', 'trap latino', 'urbano latino']",13094178
+66,Taylor Swift,06HL4z0CvFAxyc27GXpf02,You Are In Love (Taylor's Version),4UwqOWDpdeIDVQDuKT6iza,84,100,['pop'],91476272
+67,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Suburban Legends (Taylor's Version) (From The Vault),6M9ppdfFjR1AbpUl3Y8DcV,83,100,['pop'],91476272
+68,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Dial Drunk (with Post Malone),22VHOlVYBqytsrAqV8yXBK,86,81,['pov: indie'],1483988
+69,Taylor Swift,06HL4z0CvFAxyc27GXpf02,This Love (Taylor’s Version),5QVVjX0ZItqlVpEuVCM9Yg,84,100,['pop'],91476272
+70,Calle 24,6dLuQ5qXxIuWc5urxfIiZR,Que Onda,6uIIdjYTxxpWOyWuVXrKQO,94,74,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",552088
+71,Darell,1TtXnWcUs0FCkaZDPGYHdf,Lollipop,3cDyocF0Ibdfs1SFQk5cLZ,95,77,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",4084244
+72,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Dawns (feat. Maggie Rogers),42TtHTxWk782ZBiqyOi2d1,84,86,"['classic oklahoma country', 'modern country pop']",2496766
+73,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Style (Taylor's Version),3Vpk1hfMAQme8VJ0SNRSkd,82,100,['pop'],91476272
+74,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Out Of The Woods (Taylor's Version),1OcSfkeCg9hRC2sFKB4IMJ,82,100,['pop'],91476272
+75,Ice Spice,3LZZPxNDGDFVSIPqf4JuEf,Deli,5JYPXqMwYc0zTODQdjMEZN,85,76,['bronx drill'],2285671
+76,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Blank Space (Taylor's Version),0108kcWLnn2HlH2kedi1gn,82,100,['pop'],91476272
+77,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Welcome To New York (Taylor's Version),4WUepByoeqcedHoYhSNHRt,81,100,['pop'],91476272
+78,Drake,3TVXtAsR1Inumwj472S9r4,Search & Rescue,7aRCf5cLOFN1U7kvtChY1G,85,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+79,Drake,3TVXtAsR1Inumwj472S9r4,Slime You Out (feat. SZA),3RaCGXCiiMufRPoexXxGkV,86,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+80,PinkPantheress,78rUTD7y6Cy67W1RVzYs7t,Boy's a liar Pt. 2,6AQbmUe0Qwf5PZnt4HmTXv,88,74,['bedroom pop'],2539585
+81,Taylor Swift,06HL4z0CvFAxyc27GXpf02,All You Had To Do Was Stay (Taylor's Version),2k0ZEeAqzvYMcx9Qt5aClQ,81,100,['pop'],91476272
+82,Yng Lvcas,1NNRWkhwmcXRimFYSBpB1y,La Bebe - Remix,2UW7JaomAMuX9pZrjVpHAU,92,70,['reggaeton'],250310
+83,Junior H,7Gi6gjaWy3DxyilpF1a8Is,El Azul,1haJsMtoBhHfvuM7XWuT3W,90,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+84,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,the grudge,3Nl5OkkmS5DaBZvuYofpAt,87,87,['pop'],29609037
+85,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Spotless (feat. The Lumineers),0HEytGQM3bG1vKxER7IgVK,83,86,"['classic oklahoma country', 'modern country pop']",2496766
+86,Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Wish You Would (Taylor's Version),3FxJDucHWdw6caWTKO5b23,80,100,['pop'],91476272
+87,Taylor Swift,06HL4z0CvFAxyc27GXpf02,New Romantics (Taylor's Version),5M787RexsAiVYjQusM98CV,80,100,['pop'],91476272
+88,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Clean (Taylor's Version),0lKUBmEyQfzsQHozyeXzES,80,100,['pop'],91476272
+89,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,lacy,6QT6j7rKt7Vk3IuV2AUO9W,86,87,['pop'],29609037
+90,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,LAGUNAS,3HOKxuTDmNVmIlCIpBiD8m,88,90,"['corridos tumbados', 'sad sierreno']",8745657
+91,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Wildest Dreams (Taylor's Version),27exgla7YBw9DUNNcTIpjy,80,100,['pop'],91476272
+92,Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Know Places (Taylor's Version),1ULabO0PEsdJekqVH6G10G,79,100,['pop'],91476272
+93,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Shake It Off (Taylor's Version),50yNTF0Od55qnHLxYsA5Pw,80,100,['pop'],91476272
+94,Taylor Swift,06HL4z0CvFAxyc27GXpf02,How You Get The Girl (Taylor's Version),733OhaXQIHY7BKtY3vnSkn,79,100,['pop'],91476272
+95,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Wonderland (Taylor's Version),6HRsJu8vcnzYDN4t0570FY,79,100,['pop'],91476272
+96,Taylor Swift,06HL4z0CvFAxyc27GXpf02,You Are In Love (Taylor's Version),0TyGh27YQ5LknmiDhCzJiT,79,100,['pop'],91476272
+97,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,6WzRpISELf3YglGAh7TXcG,93,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+98,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Bad Blood (Taylor's Version),7oZONwFiFIErZcXAtTu7FY,79,100,['pop'],91476272
+99,KAROL G,790FomKkXshlbRYZFtlgla,QLONA,5RqSsdzTNPX1uzkmlHCFvK,94,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+100,Taylor Swift,06HL4z0CvFAxyc27GXpf02,This Love (Taylor’s Version),4WBEj8TeGtRPNJdOmT3WJW,79,100,['pop'],91476272
+101,Drake,3TVXtAsR1Inumwj472S9r4,Gently (feat. Bad Bunny),6ZprqcYFC6D9eIZaCoqrSn,87,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+102,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Cowgirls (feat. ERNEST),7fveJ3pk1eSfxBdVkzdXZ0,82,85,['contemporary country'],7537077
+103,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,TULUM,7bPp2NmpmyhLJ7zWazAXMu,90,90,"['corridos tumbados', 'sad sierreno']",8745657
+104,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,Ella Baila Sola,3dnP0JxCgygwQH9Gm7q7nb,89,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",4913584
+105,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Rock and A Hard Place,1TE8AAk9koG0UJco6ZAUfx,83,72,"['contemporary country', 'modern country pop']",731170
+106,NewJeans,6HvZYsbFfjnjFrWF950C9d,Super Shy,5sdQOyqq2IDhvmx2lHOpwd,92,81,"['k-pop', 'k-pop girl group']",5963404
+107,Bad Bunny,4q3ewBCX7sLwd24euuV69X,HIBIKI,4qSEvFGCpde73gqIuq3sho,92,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+108,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,East Side of Sorrow,00syWkRGIVQvYsg2OwfBUw,82,86,"['classic oklahoma country', 'modern country pop']",2496766
+109,Junior H,7Gi6gjaWy3DxyilpF1a8Is,Y LLORO,6RcAHyC5sAUIbPTkhOQwd8,90,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+110,SUICIDAL-IDOL,6KOszWgIriJLaPOySuBOTI,ecstacy (slowed),1JgknGBbrfmEHeOZH051SS,90,70,['scenecore'],74947
+111,V,3JsHnjpbhX4SnySpvpa9DK,Slow Dancing,5h1BN75CEh8wdSwE1xrbSe,96,81,"['j-division', 'korean ost']",15942272
+112,Drake,3TVXtAsR1Inumwj472S9r4,Calling For You (feat. 21 Savage),2nibvvDdAQkVraYP00z2RS,84,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+113,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MR. OCTOBER,1ODFVLQszq0hCOdZtqV5wq,89,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+114,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,We Ride,72kGuWpRiuA149Bn5lDkIO,83,67,['modern country pop'],104799
+115,Drake,3TVXtAsR1Inumwj472S9r4,Daylight,4ZT0wGKwlJRjpMUuwZVy3p,84,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+116,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,making the bed,5CscrLqFBgPfZR8fGtikov,85,87,['pop'],29609037
+117,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,love is embarrassing,26QLJMK8G0M06sk7h7Fkse,85,87,['pop'],29609037
+118,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,SABOR FRESA,1UMm1Qs3u59Wvk53zBUE8r,89,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+119,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Fighting My Demons,2c7sRekhMGlj7u1WIIzoQu,83,77,['rage rap'],809613
+120,The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,TOO MUCH,0rKWJnmo6Q0ovoPOLoLm0t,92,79,['australian hip hop'],4849548
+121,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,ballad of a homeschooled girl,5sp71CUt0jXRNqHblPGp7b,85,87,['pop'],29609037
+122,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,BIPOLAR,3wlIAXSDtlD9iU8ysld06Z,87,90,"['corridos tumbados', 'sad sierreno']",8745657
+123,Bad Bunny,4q3ewBCX7sLwd24euuV69X,BABY NUEVA,3NhstUmrlhaN1M6hP8zMbb,90,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+124,Bad Bunny,4q3ewBCX7sLwd24euuV69X,CYBERTRUCK,4Jc7252S1P99DjQ1lNGEOc,88,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+125,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,White Horse,7MSWxMumjz6lHj7oRApNbg,82,77,"['contemporary country', 'outlaw country']",6280135
+126,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Turks & Caicos (feat. 21 Savage),3kfhS2L56Wj8fBcu7xE47H,81,78,['florida rap'],5787712
+127,juju<3,496w0Fyed8J7IRzn5Ffb6x,Wasted Summers,43MifzVnh8W3jJN0xqU9jR,84,61,[],60000
+128,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,SAY MY GRACE (feat. Travis Scott),2Gk6fi0dqt91NKvlzGsmm7,85,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",3184634
+129,Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Can See You (Taylor’s Version) (From The Vault),5kHMfzgLZP95O9NBy0ku4v,87,100,['pop'],91476272
+130,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Say Yes To Heaven,6GGtHZgBycCgGBUhZo81xe,90,88,"['art pop', 'pop']",29366429
+131,Jimin,1oSPZhvZMIrWW5I41kPkkY,Like Crazy,58BWnoFDNaeM0vwA0K3fqb,91,80,['k-pop'],6820194
+132,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,logical,53dtP2iUMvaF28JZcHnFuU,85,87,['pop'],29609037
+133,d4vd,5y8tKLUfMvliMe8IKamR32,Here With Me,5LrN7yUQAzvthd4QujgPFr,90,75,"['bedroom pop', 'bedroom r&b']",1898310
+134,Drake,3TVXtAsR1Inumwj472S9r4,8am in Charlotte,0w3Mfe4PIVjuFjJbe3OlYv,84,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+135,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,MY EYES,4kjI1gwQZRKNDkw1nI475M,88,90,"['hip hop', 'rap', 'slap house']",24940449
+136,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,TQM,368eeEO3Y2uZUQ6S5oIjcu,88,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+137,Feid,2LRoIwlKmHjgvigdNGBHNo,Classy 101,6XSqqQIy7Lm7SnwxS4NrGx,93,88,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",8121801
+138,Drake,3TVXtAsR1Inumwj472S9r4,Slime You Out (feat. SZA),0AYt6NMyyLd0rLuvr0UkMH,84,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+139,Drake,3TVXtAsR1Inumwj472S9r4,Fear Of Heights,53KaP77tkliz36LPxWGlWK,83,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+140,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Enchanted (Taylor's Version),3sW3oSbzsfecv9XoUdGs7h,88,100,['pop'],91476272
+141,Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,Wild Ones (feat. Jelly Roll),2kE2HFBFkJ0VMw3igxYohz,82,70,"['alt z', 'modern country pop', 'singer-songwriter pop']",702477
+142,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Flowers,7DSAEUvxU8FajXtRloy8M0,92,82,['pop'],22524507
+143,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,500lbs,6rjuKpPydT2SxN15TZpV7r,83,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+144,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Moonlight,0JmnkIqdlnUzPaf8sqBRs3,86,82,['colombian pop'],5569617
+145,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,LUNA,3RA55zrRkyPK8Fd86hrMy8,86,90,"['corridos tumbados', 'sad sierreno']",8745657
+146,Sexyy Red,3DbwFQlvLxRSi2uX8mf81A,SkeeYee,7icwQvajsokotDfM3tefW6,81,72,['trap queen'],303113
+147,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Thought You Should Know,3Qu3Zh4WTKhP9GEXo0aDnb,81,85,['contemporary country'],7537077
+148,Odetari,7ITMCzIU9uII8gwRg8JAhc,I LOVE YOU HOE (w/ 9lives),0NaUT74rJ0NHS62fewzatU,86,79,"['sigilkore', 'sped up']",1571331
+149,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,You’re Gonna Go Far,4nHJcUtNSUVjXRnjdP29Bk,82,81,['pov: indie'],1483988
+150,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,One Of Your Girls,5Eh1nj7IjV9lwpcKAkidyY,88,78,"['australian pop', 'pop', 'viral pop']",7993254
+151,KAROL G,790FomKkXshlbRYZFtlgla,QLONA,3XB5uhhlYSnkxpSihkNQwh,90,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+152,Drake,3TVXtAsR1Inumwj472S9r4,What Would Pluto Do,1DAibqbopEYULPEtE8WHTE,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+153,Bad Bunny,4q3ewBCX7sLwd24euuV69X,TELEFONO NUEVO,01ppKlDRCmPpusO3yNrSRY,89,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+154,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Dial Drunk,0caJ2wkqp4UmXBwdR2JvB5,82,81,['pov: indie'],1483988
+155,HARDY,5QNm7E7RU2m64l6Gliu8Oy,TRUCK BED,103u49mLoJUge83B1CnLxI,80,71,"['contemporary country', 'modern country pop']",554303
+156,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Watch This - ARIZONATEARS Pluggnb Remix,0FA4wrjDJvJTTU8AepZTup,85,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+157,Laufey,7gW0r5CkdEUMm42w9XpyZO,From The Start,1Ukxccao1BlWrPhYkcXbwZ,85,77,['gen z singer-songwriter'],2052338
+158,Dave,6Ip8FS7vWT1uKkJSweANQK,Sprinter,2FDTHlrBguDzQkp7PVj16Q,93,78,['uk hip hop'],3896086
+159,Bad Bunny,4q3ewBCX7sLwd24euuV69X,SEDA,1YnChEM51BVZ5dRhbVFEMl,90,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+160,Bizarrap,716NhGYqD1jl2wI1Qkgq36,"Peso Pluma: Bzrp Music Sessions, Vol. 55",5AqiaZwhmC6dIbgWrD5SzV,87,84,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",13112309
+161,Bad Bunny,4q3ewBCX7sLwd24euuV69X,NADIE SABE,23d8v6tU6lR77pFKsApMtF,89,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+162,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Sarah's Place (feat. Noah Kahan),1vhbThkFnqAHbZp0fEjXE4,80,86,"['classic oklahoma country', 'modern country pop']",2496766
+163,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Fear and Friday's,0GMiRrUnQuoGddKMsxGPIZ,80,86,"['classic oklahoma country', 'modern country pop']",2496766
+164,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,EL AMOR DE SU VIDA,0O3U5iwTbiXCREMkvotJuN,90,83,['musica chihuahuense'],2228742
+165,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Ain’t That Some,2YVlDlk2zRceefo6XlC6DX,81,85,['contemporary country'],7537077
+166,KAROL G,790FomKkXshlbRYZFtlgla,AMARGURA,505v13epFXodT9fVAJ6h8k,90,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+167,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,RUBICON,0xGZjxYqcNQ8WqxyeZ4eSN,87,90,"['corridos tumbados', 'sad sierreno']",8745657
+168,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Flooded The Face,4daEMLSZCgZ2Mt7gNm2SRa,81,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+169,Paul Russell,4zoRNhOhsGX3w8yBAnFSQ8,Lil Boo Thang,0cVyQfDyRnMJ0V3rjjdlU3,86,64,['indie r&b'],131731
+170,Bad Bunny,4q3ewBCX7sLwd24euuV69X,WHERE SHE GOES,7ro0hRteUMfnOioTFI5TG1,90,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+171,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,Ella Baila Sola,3qQbCzHBycnDpGskqOWY0E,86,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",4913584
+172,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,Single Soon,6iF4RgIjDvDqyW13PezSj3,88,81,"['pop', 'post-teen pop']",46250495
+173,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Fall In Love,0rCFRyEy4WXjRXNpO80Dzs,80,72,"['contemporary country', 'modern country pop']",731170
+174,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,un x100to,6pD0ufEQq0xdHSsRbg9LBK,89,83,['musica chihuahuense'],2228742
+175,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,TOPIA TWINS (feat. Rob49 & 21 Savage),0lodMO0qK83vfPiiD7FMEt,84,90,"['hip hop', 'rap', 'slap house']",24940449
+176,Drake,3TVXtAsR1Inumwj472S9r4,7969 Santa,1GpWY5RiInhezB8wGWs6oN,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+177,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,Need A Favor,5twSy6ffBrF03mnNUsUgJZ,80,74,"['country rap', 'nashville hip hop', 'tennessee hip hop']",2707854
+178,Drake,3TVXtAsR1Inumwj472S9r4,Bahamas Promises,3JZjcKImHcmOI9ylL4zrSc,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+179,Post Malone,246dkjvS1zLTtiykXe5h60,Chemical,5w40ZYhbBMAlHYNDaVJIUu,88,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+180,Oscar Maydon,3l9G1G9MxH6DaRhwLklaf5,Fin de Semana,6TBzRwnX2oYd8aOrOuyK1p,87,73,"['corrido', 'corridos tumbados', 'sierreno']",634273
+181,Cardi B,4kYSro6naA4h99UJvo89HB,Bongos (feat. Megan Thee Stallion),4YQImHflXSiIMXntcwPkx8,83,77,"['pop', 'rap']",22508171
+182,Odetari,7ITMCzIU9uII8gwRg8JAhc,GOOD LOYAL THOTS,06tNJ27nVxbDwhiQMChWyr,85,79,"['sigilkore', 'sped up']",1571331
+183,Bad Bunny,4q3ewBCX7sLwd24euuV69X,UN PREVIEW,63ui2w3QJBp8xx0c1MJB2Z,91,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+184,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Moonlight,2i2gDpKKWjvnRTOZRhaPh2,88,82,['colombian pop'],5569617
+185,Cody Johnson,6zLBxLdl60ekBLpawtT63I,The Painter,6UoKX6uLJwhsnyTp5k5StP,79,72,"['classic texas country', 'contemporary country']",991437
+186,Drake,3TVXtAsR1Inumwj472S9r4,Another Late Night (feat. Lil Yachty),17IBDpAl3J39swaoPlfGpp,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+187,ZWE1HVNDXR,33rnQWadiG2aauIwIxPxfB,LOVELY BASTARDS,0EqczV3o6fwksegAavIHpX,88,67,[],58258
+188,41,0yknvLWQZxwsMjhUhwWZQ8,Bent,6ulEymrJ2Azx1uo3YHSE5w,81,60,['new york drill'],67127
+189,Dylan Gossett,4H4M0Y4cN39zIVDHvdW53x,Coal,4dtIxANFBU6CfhI9c2hf2g,82,62,[],101151
+190,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Let The Light In (feat. Father John Misty),4qG7hWhljsqqENL5PaLA2z,84,88,"['art pop', 'pop']",29366429
+191,Bad Bunny,4q3ewBCX7sLwd24euuV69X,MERCEDES CAROTA,3TYOH7ta0101NYssoH5GlU,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+192,Drake,3TVXtAsR1Inumwj472S9r4,Amen (feat. Teezo Touchdown),0Mrnt1YqVuW2bqmwu4VxDt,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+193,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,El Gordo Trae El Mando,3kf0WdFOalKWBkCCLJo4mA,85,76,"['corrido', 'sierreno']",882628
+194,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,pretty isn’t pretty,6W9l02gRsXVxzIuQC1oc1X,83,87,['pop'],29609037
+195,Maluma,1r4hJ1h58CWwUQe3MxPuau,Según Quién,6fNCrsrdIcgVd2aZZ0nnz4,90,83,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",34449469
+196,Drake,3TVXtAsR1Inumwj472S9r4,Tried Our Best,3IHt4j5uAEl7iBu8Utn985,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+197,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Paint The Town Red,56y1jOTK0XSvJzVv9vHQBK,89,87,"['dance pop', 'pop']",27104305
+198,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Great Gatsby,4M68xjcc42oxyphhzpOWXS,79,78,['florida rap'],5787712
+199,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,She Calls Me Back (with Kacey Musgraves),0p1hBWPaSxUDTSa32PyhnU,80,81,['pov: indie'],1483988
+200,Odetari,7ITMCzIU9uII8gwRg8JAhc,GMFU (w/ 6arelyhuman),4D1k6x4MXTaSnljSvAXhaf,86,79,"['sigilkore', 'sped up']",1571331
+201,Bad Bunny,4q3ewBCX7sLwd24euuV69X,NO ME QUIERO CASAR,39L3LdlHS3gqB62HPWaJRg,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+202,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,HVN ON EARTH (with Kodak Black),4367dXCt02KMgELPisJ2D4,81,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+203,Quevedo,52iwsT98xCoGgiGntTiR7K,Columbia,6XbtvPmIpyCbjuT0e8cQtp,95,83,"['rap canario', 'trap latino', 'urbano latino']",3224999
+204,Bad Bunny,4q3ewBCX7sLwd24euuV69X,GRACIAS POR NADA,1U3A66OHQyTu4N2QTMsP86,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+205,Bad Bunny,4q3ewBCX7sLwd24euuV69X,VOU 787,0rDQZJtSGgsB2rdkObpdFa,86,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+206,Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,Hurts Me,0RBw4ODUQPO4cuAOZtBGga,84,78,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",6097221
+207,Drake,3TVXtAsR1Inumwj472S9r4,All The Parties (feat. Chief Keef),1PIgY9ybyFT9uWLM5POYGY,81,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+208,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LOS PITS,7ucEkWU0SVy0XFdfXESgfY,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+209,Tainy,0GM7qgcRCORpGnfcN2tCiB,MOJABI GHOST,4eMKD8MRroxCqugpsxCCNb,89,78,"['pop reggaeton', 'reggaeton', 'trap latino', 'urbano latino']",1807371
+210,KAROL G,790FomKkXshlbRYZFtlgla,TQG,0DWdj2oZMBFSzRsi2Cvfzf,90,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+211,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,One Thing At A Time,1rXq0uoV4KTgRN64jXzIxo,79,85,['contemporary country'],7537077
+212,Drake,3TVXtAsR1Inumwj472S9r4,Members Only (feat. PARTYNEXTDOOR),24FUBxaAYSBlWsbSnEzDcn,82,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+213,$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,Not Even Ghosts Are This Empty,7rzNKooM3JrKVT40fR22HI,80,83,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",6237177
+214,Drake,3TVXtAsR1Inumwj472S9r4,Drew A Picasso,03rwnftfgpYVO6QDWOZcG6,81,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+215,Lil Durk,3hcs9uc56yIGFCSy9leWe7,All My Life (feat. J. Cole),6HgWWaMu31KdOpEG5l28BG,83,80,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",6464360
+216,Doechii,4E2rKHVDssGJm2SCDOMMJB,What It Is (Solo Version),73RbfOTJIjHzi2pcVHjeHM,87,69,['alternative r&b'],362828
+217,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Sarah's Place (feat. Noah Kahan),1fvC3CmNAbsx0V9ULMU8NB,80,86,"['classic oklahoma country', 'modern country pop']",2496766
+218,Rockwell,3xs0LEzcPXtgNfMNcHzLIP,Somebody's Watching Me - Single Version,2QN9zL3SzXdGqqmXO68gFp,81,62,[],55519
+219,Charli XCX,25uiPmTg16RbhZWAqwLBy5,Speed Drive (From Barbie The Album),5VxmI3IdgAxWVvUnJoLuY2,85,74,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3005641
+220,FIFTY FIFTY,4GJ6xDCF5jaUqD6avOuQT6,Cupid - Twin Ver.,7FbrGaHYVDmfr7KoLIZnQ7,87,70,['k-pop girl group'],1343574
+221,Odetari,7ITMCzIU9uII8gwRg8JAhc,LOOK DON’T TOUCH (w/ cade clair),7E9kejvFw8NDfuu4y3hqkp,84,79,"['sigilkore', 'sped up']",1571331
+222,Kaliii,1YRqgFNXqRyMDRr8ClS1NL,Area Codes,7sliFe6W30tPBPh6dvZsIH,81,63,"['rap', 'viral rap']",243908
+223,Ryan Castro,7j6DKwmjbxvpQO8h914uEz,QUEMA,2hn2zOA2XFlv6DSmesylrL,88,77,"['reggaeton', 'trap colombiano', 'trap latino', 'urbano latino']",1953475
+224,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Boys Of Faith (feat. Bon Iver),6pRRHgDjfIGhTUCGlHX2p8,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+225,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Deep Satin,1u2Fe70Qm9VFCIMPWFlfc1,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+226,Eden Muñoz,1gJdf4Yybu4X5A2xYV3NMV,Abcdario,0qCPD6ilr9nXkI4KVZgcns,85,74,"['corrido', 'sierreno']",813778
+227,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,NUEVA VIDA,4Nf5EZ40JenjMUKXOiyRU5,84,90,"['corridos tumbados', 'sad sierreno']",8745657
+228,Aliyah's Interlude,7maQENQfaF8xDdEJp4i545,IT GIRL,4wQmwPWCUn6gi11Gep2qsP,84,63,[],56208
+229,Lil Durk,3hcs9uc56yIGFCSy9leWe7,Stand By Me (feat. Morgan Wallen),1fXnu2HzxbDtoyvFPWG3Bw,79,80,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",6464360
+230,Bad Bunny,4q3ewBCX7sLwd24euuV69X,UN PREVIEW,5ixdmTpCmH5diBA1j154wN,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+231,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,’98 Braves,3oZ6dlSfCE9gZ55MGPJctc,78,85,['contemporary country'],7537077
+232,Natanael Cano,0elWFr7TW8piilVRYJUe4P,Mi Bello Angel,4t46soaqA758rbukTO5pp1,88,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+233,Bad Bunny,4q3ewBCX7sLwd24euuV69X,THUNDER Y LIGHTNING,4pcafPzLDSqQktqSpxHL3E,87,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+234,Bad Bunny,4q3ewBCX7sLwd24euuV69X,VUELVE CANDY B,3mRF0YNsDdFKFnxwg16hSz,85,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+235,Bad Bunny,4q3ewBCX7sLwd24euuV69X,BATICANO,5qzLdvRViHUrRNdkpakG7C,85,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+236,Young Thug,50co4Is1HCEo8bhOyUWKpn,Oh U Went (feat. Drake),7qLr3HMApUbyDkUvgIvHnB,80,81,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",9091493
+237,Lil Mabu,6FAo7ORAHEzSSf5q10LLfN,MR. TAKE YA B*TCH (FEAT. CHRISEANROCK),38R5sydMbsBzSPGPMfmtpb,81,67,['meme'],790539
+238,Dylan Scott,78YqeIji3mgAS2K1Maca6x,This Town's Been Too Good To Us,6vsa5VDsIaWC8oJnowU65l,78,66,"['contemporary country', 'country', 'country road', 'modern country rock']",1514767
+239,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,teenage dream,7fesNTgTEMEH0ye8MOgEDY,82,87,['pop'],29609037
+240,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Smaller Acts,67aaFVnfvFWjxVQMd0jDb5,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+241,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,A Night To Remember,180AbZduI6bYQIzwCHRwu9,81,74,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2679814
+242,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Overtime,5pIVEk6Di7n1v5khOzJaJL,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+243,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Summertime's Close,7eOuUmpnHBlg5zsm8Cs7c3,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+244,Ice Spice,3LZZPxNDGDFVSIPqf4JuEf,Princess Diana (with Nicki Minaj),0ZxhtATQ0a6EvQNZ0z6NKV,81,76,['bronx drill'],2285671
+245,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,Save Me (with Lainey Wilson),4Bee3PcNdfeqO1B80dDgFn,78,74,"['country rap', 'nashville hip hop', 'tennessee hip hop']",2707854
+246,Jimin,1oSPZhvZMIrWW5I41kPkkY,Like Crazy (English Version),0u8rZGtXJrLtiSe34FPjGG,86,80,['k-pop'],6820194
+247,Bad Bunny,4q3ewBCX7sLwd24euuV69X,WHERE SHE GOES,2sTDlCxmuZCTDKKk9f1qus,85,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+248,Nate Smith,4NYMUsIcUUsBHbV9DICa5x,World on Fire,5ya0TmUQw2wHMkq36rPsnd,78,63,['modern country pop'],231781
+249,Drake,3TVXtAsR1Inumwj472S9r4,Away From Home,4IcbUXrAzBtn6iUO1LP471,80,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+250,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,In Your Love,1olWQ1LOUYs4VBwx5N8Lz9,78,75,"['kentucky indie', 'kentucky roots', 'outlaw country']",2089923
+251,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,Feather,2Zo1PcszsT9WQ0ANntJbID,85,76,['pop'],6288414
+252,That Mexican OT,3BAgmPNIK5IJl7zMK1wvMA,Johnny Dang (with Paul Wall & DRODi),1kwPxt35W7cG3rryxR48PO,78,69,['texas latin rap'],432576
+253,Megan Moroney,5Ppie0uPnbnvGBYRwYmlt0,Tennessee Orange,6DLbBlGIOjjEj0dNN25zhZ,78,65,['modern country pop'],173414
+254,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Back To December (Taylor's Version),79uDOz0zuuWS7HWxzMmTa2,84,100,['pop'],91476272
+255,Ivan Cornejo,6PH3FLQAxtqYy46Zv08bpV,Aquí Te Espero,33vrRiIiut4rOFmkgorJD6,78,73,['sad sierreno'],1852569
+256,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Jennifer’s Body,04hgBWsBDEyVP8pH0BCZbG,80,77,['rage rap'],809613
+257,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,un x100to,2yzshFeBIwH8tWIqHEFLeD,86,83,['musica chihuahuense'],2228742
+258,Odetari,7ITMCzIU9uII8gwRg8JAhc,NARCISSISTIC PERSONALITY DISORDER,6lDJ0CkQ6LdQv5EUQ39rpg,83,79,"['sigilkore', 'sped up']",1571331
+259,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Nine Ball,3xOi0YhDREKRURFHoNaAOQ,78,86,"['classic oklahoma country', 'modern country pop']",2496766
+260,League of Legends,47mIJdHORyRerp4os813jD,GODS,210JJAa9nJOgNa0YNrsT5g,87,77,"['speedrun', 'video game music']",1716892
+261,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Hits Different,3xYJScVfxByb61dYHTwiby,82,100,['pop'],91476272
+262,KAROL G,790FomKkXshlbRYZFtlgla,MI EX TENÍA RAZÓN,54zcJnb3tp9c5OVKREZ1Is,89,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+263,Xavi,3Me35AWHCGqW4sZ7bWWJt1,La Víctima,5XVdHRf4CAJ2Jm0uMIy5qY,86,70,['sad sierreno'],228867
+264,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Standing Next to You,2KslE17cAJNHTsI2MI0jb2,90,88,['k-pop'],10924148
+265,NewJeans,6HvZYsbFfjnjFrWF950C9d,ETA,56v8WEnGzLByGsDAXDiv4d,86,81,"['k-pop', 'k-pop girl group']",5963404
+266,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Holy Roller (feat. Sierra Ferrell),3itgPtXSu4I9mr2QD6yrzP,77,86,"['classic oklahoma country', 'modern country pop']",2496766
+267,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,Next Thing You Know,39OclE5hZematADrdfaWvE,78,71,['contemporary country'],1064176
+268,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Ticking,1HwDRgozGBMyfJTQUfz09A,77,86,"['classic oklahoma country', 'modern country pop']",2496766
+269,Ivan Cornejo,6PH3FLQAxtqYy46Zv08bpV,Donde Estás,69qvqJ61NqTtr1eO29tapa,78,73,['sad sierreno'],1852569
+270,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Mine (Taylor's Version),7G0gBu6nLdhFDPRLc0HdDG,84,100,['pop'],91476272
+271,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,What My World Spins Around,6vjZxvzdAeHp7jv3R398Xm,78,71,['contemporary country'],1064176
+272,Nicky Youre,7qmpXeNz2ojlMl2EEfkeLs,Sunroof,5YqEzk3C5c3UZ1D5fJUlXA,86,65,['singer-songwriter pop'],194007
+273,cassö,5wCmhq5J2hPwL2r0eKurxn,Prada,59NraMJsLaMCVtwXTSia8i,94,72,[],17486
+274,Jungle,59oA5WbbQvomJz2BuRG071,Back On 74,19kHhX6f6EfLU7rcO3RqjO,85,71,"['indie soul', 'indietronica', 'uk contemporary r&b']",1093281
+275,NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,IT'S GETTING HOT,4lMyi03aRk8nPBLLGyqAVz,80,77,"['memphis hip hop', 'rap']",6990711
+276,Bad Gyal,4F4pp8NUW08JuXwnoxglpN,Chulo pt.2,0J9g1MMJDhyvOb3NWckHMm,90,72,"['neoperreo', 'rap catala', 'rap latina', 'trap catala', 'urbano espanol']",1196984
+277,Sleepy Hallow,6EPlBSH2RSiettczlz7ihV,A N X I E T Y (feat. Doechii),3FjK86616FbluOfTxNK2gY,81,75,"['brooklyn drill', 'nyc rap']",1611513
+278,Warren Zeiders,7kplJl06UmldxLKseURAYi,Pretty Little Poison,2gT2iF1YK5r54A2PDEXVv8,77,65,['modern country pop'],486228
+279,Bad Bunny,4q3ewBCX7sLwd24euuV69X,ACHO PR,1C7lXfx4Y5maVl4AgUVlHA,86,96,"['reggaeton', 'trap latino', 'urbano latino']",76200614
+280,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,HARLEY QUINN,6CvTEtGagmzQvkUzzyKR9k,89,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+281,V,3JsHnjpbhX4SnySpvpa9DK,Love Me Again,2N0SPREDYqILVEFSsWF5N5,90,81,"['j-division', 'korean ost']",15942272
+282,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,VVS,3B0swL7Qil9bB7eKzBREBK,82,90,"['corridos tumbados', 'sad sierreno']",8745657
+283,Teddy Swims,33qOK5uJ8AR2xuQQAhHump,Lose Control,6usohdchdzW9oML7VC4Uhk,83,69,[],949424
+284,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,El Dorado,7C1BLYzAvR0KdBpov3GpUZ,77,86,"['classic oklahoma country', 'modern country pop']",2496766
+285,Los Primos del Este,5MEewKjCN4Dw20OFV2IGMo,No Es Mentira (Version Norteña),0dWSN9JS8vAcnM8a6lxIrB,79,60,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",171321
+286,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,GAVILÁN II,775hCSePn3GW4h9nZ636kq,84,90,"['corridos tumbados', 'sad sierreno']",8745657
+287,Young Nudy,5yPzzu25VzEk8qrGTLIrE1,Peaches & Eggplants (feat. 21 Savage),1KUZ33cOqk3X4Ezk0aZnVp,78,70,"['pluggnb', 'rap', 'trap']",1341333
+288,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,THANK GOD,1PH2MDbcBAU094DlgTIND1,83,90,"['hip hop', 'rap', 'slap house']",24940449
+289,Shakira,0EmeFodog0BfCgMzAIvKQp,El Jefe,5wjsJIUf6pdrwauPDae43o,87,84,"['colombian pop', 'dance pop', 'latin pop', 'pop']",31855109
+290,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,Try That In A Small Town,4ROknQyR1wOGPfmpTtB3z4,76,71,"['contemporary country', 'country', 'country road', 'modern country rock']",6369769
+291,RAYE,5KKpBU5eC2tJDzf0wmlRp2,Escapism.,5mHdCZtVyb4DcJw8799hZp,86,77,"['uk contemporary r&b', 'uk pop']",1052559
+292,Lil Mabu,6FAo7ORAHEzSSf5q10LLfN,MATHEMATICAL DISRESPECT,0Ymjv0OJeIIPXr6s9wi3iW,80,67,['meme'],790539
+293,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Seven (feat. Latto) (Clean Ver.),5Avril3IZ26DPVFHbJX8o6,90,88,['k-pop'],10924148
+294,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,HYAENA,0hL9gOw6XBWsygEUcVjxEc,82,90,"['hip hop', 'rap', 'slap house']",24940449
+295,Carin Leon,66ihevNkSYNzRAl44dx6jJ,Primera Cita,4mGrWfDISjNjgeQnH1B8IE,89,84,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",8632339
+296,NewJeans,6HvZYsbFfjnjFrWF950C9d,OMG,65FftemJ1DbbZ45DUfHJXE,87,81,"['k-pop', 'k-pop girl group']",5963404
+297,Jhayco,6nVcHLIgY5pE2YCl8ubca1,Holanda,6irysuQyZWd7Bjj7ePiOs2,92,81,"['reggaeton', 'trap latino', 'urbano latino']",6953445
+298,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,K-POP,5L3ecxQnQ9qTBmnLQiwf0C,85,90,"['hip hop', 'rap', 'slap house']",24940449
+299,JENNIE,250b0Wlc5Vk0CoUsaCY84M,You & Me,6gcuJpHu0Ey30D5WR76y98,83,74,['k-pop'],4445486
+300,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Paranoid (feat. Destroy Lonely),2l48XirhkqQ5qRqtwItNXn,79,77,['rage rap'],809613
+301,Peggy Gou,2mLA48B366zkELXYx7hcDN,(It Goes Like) Nanana - Edit,23RoR84KodL5HWvUTneQ1w,91,70,"['electra', 'float house']",798486
+302,Odetari,7ITMCzIU9uII8gwRg8JAhc,HYPNOTIC DATA,26wxtmoH4uPUF1n5VlPxMc,83,79,"['sigilkore', 'sped up']",1571331
+303,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Used To Be Young,41WQUSINanQHfhfKpFDsms,84,82,['pop'],22524507
+304,LE SSERAFIM,4SpbR6yFEvexJuaBpgAU5p,Perfect Night,74X2u8JMVooG2QbjRxXwR8,86,74,['k-pop girl group'],3390703
+305,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,PRC,2mpoNBkngUEwnaKoBhZ0vl,84,90,"['corridos tumbados', 'sad sierreno']",8745657
+306,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,Mamaw's House,3eNOyXmzuA46bUvi8FkIoW,77,70,"['contemporary country', 'country', 'country road', 'modern country rock']",4654619
+307,Drake,3TVXtAsR1Inumwj472S9r4,Polar Opposites,3oZZfVvLJuDYc4Vn3A63Fw,79,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+308,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,Levels,6hgTMdO3CyXlNQJ1K58ruH,75,68,['southern hip hop'],237718
+309,Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,LOU LOU,3FvTHuefYV6TxE3Kseqno8,89,81,"['corrido', 'sierreno']",1173145
+310,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Singapore (feat. Destroy Lonely),56QNTK715IJeYmJP2grB5f,78,77,['rage rap'],809613
+311,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,Dijeron Que No La Iba Lograr,7dR09k1an5JEq7ch0Y5hvV,81,76,"['corrido', 'sierreno']",882628
+312,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Call Your Friends,5W0RVQViQC7xocvAUnIs6Z,76,78,['florida rap'],5787712
+313,El Alfa,2oQX8QiMXOyuqbcZEFsZfm,PLEBADA,7uSLF2yhpjLlYBLtyPX3Lb,80,75,"['dembow', 'rap dominicano', 'reggaeton', 'trap latino', 'urbano latino']",3152099
+314,ROSALÍA,7ltDVBr6mKbRvohxheJ9h1,BESO,609E1JCInJncactoMmkDon,88,78,"['latin viral pop', 'pop', 'r&b en espanol']",7984191
+315,Junior H,7Gi6gjaWy3DxyilpF1a8Is,ROCKSTAR,6YOfGIE6iFxC7G8OlGGvzW,85,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+316,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Man Made A Bar (feat. Eric Church),73zawW1ttszLRgT9By826D,76,85,['contemporary country'],7537077
+317,Lay Bankz,4OVbrPbhvK46A1uXTU1u5F,Ick,7nn4MXs89QymmNzRreTywe,78,60,['jersey club'],71825
+318,Beach Weather,7I3bkknknQkIiatWiupQgD,"Sex, Drugs, Etc.",7MlDNspYwfqnHxORufupwq,84,67,['pov: indie'],477411
+319,Eladio Carrion,5XJDexmWFLWOkjOEjOVX3e,Coco Chanel,0PB0O24JqAuNdOAFVJljMS,86,81,"['trap boricua', 'trap latino', 'trap triste', 'urbano latino']",5348477
+320,Drake,3TVXtAsR1Inumwj472S9r4,IDGAF (feat. Yeat),6G4q8Qb7CQP5gVtzQNK0zT,80,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+321,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,Already Rich,61eJ7HqXGyHfmHIqJApX7v,80,81,"['pluggnb', 'rage rap']",3439622
+322,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,TIL FURTHER NOTICE (feat. James Blake & 21 Savage),76gcXhY3Zv6wW0BTe9nHJo,81,90,"['hip hop', 'rap', 'slap house']",24940449
+323,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,LA PEOPLE,1RzjXhgnzqb3dMa5852itx,84,90,"['corridos tumbados', 'sad sierreno']",8745657
+324,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Last Time I Saw You,79DPYZ6x8FfzgSgPoPhpC3,80,84,"['hip pop', 'pop', 'queens hip hop', 'rap']",29916959
+325,Laufey,7gW0r5CkdEUMm42w9XpyZO,From The Start,43iIQbw5hx986dUEZbr3eN,80,77,['gen z singer-songwriter'],2052338
+326,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Agora Hills,5PyDJG7SQRgWXefgexqIge,82,87,"['dance pop', 'pop']",27104305
+327,Junior H,7Gi6gjaWy3DxyilpF1a8Is,El Tsurito,1piak4R3yW4otWWyaSqyCH,84,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+328,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,Así Lo Quiso Dios,6X5WZbJzXtk6aO03HlxuZ9,81,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",4913584
+329,Odetari,7ITMCzIU9uII8gwRg8JAhc,YOU'RE TOO SLOW,5EloqweGioDEbqiGXTYWgE,81,79,"['sigilkore', 'sped up']",1571331
+330,NewJeans,6HvZYsbFfjnjFrWF950C9d,New Jeans,6rdkCkjk6D12xRpdMXy0I2,84,81,"['k-pop', 'k-pop girl group']",5963404
+331,Sam Barber,08GfvCW09pv2QP4y9sle2a,Straight and Narrow,3fonAuTvuI5KMcmnueLAPq,78,65,['modern country pop'],202958
+332,HEARTSTEEL,4lY2DXvRv9RPeFcUtn6PUh,PARANOIA,29WxJqIfDRMo9isV07kbJP,86,63,[],94533
+333,Kanii,1S82w4yw9TYIHZ889mPPaW,sins (let me in),6EQLN1Fl8oy46k4FMwhxug,78,68,"['bedroom r&b', 'sped up']",302014
+334,KAROL G,790FomKkXshlbRYZFtlgla,PROVENZA,3HqcNJdZ2seoGxhn0wVNDK,85,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+335,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",39MK3d3fonIP8Mz9oHCTBB,81,85,['rap'],5971219
+336,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Where It Ends,0wXThIDxO3YRJCpPgnmbkw,76,72,"['contemporary country', 'modern country pop']",731170
+337,KAROL G,790FomKkXshlbRYZFtlgla,OKI DOKI,601dhwn8qc31FrSlMu5wEf,84,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+338,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"One Of The Girls (with JENNIE, Lily Rose Depp)",7CyPwkp0oE8Ro9Dd5CUDjW,90,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+339,Sexyy Red,3DbwFQlvLxRSi2uX8mf81A,Looking For The Hoes (Ain’t My Fault),4LadsagnXZM7SEOpHjHIHA,76,72,['trap queen'],303113
+340,Alex Favela,5TcnuUD5MHBfd1cO4kweWD,ELOVRGA,2TJKY0WSFufZOzbRNgl6zE,91,68,['corrido'],47417
+341,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Long Live (Taylor's Version),4hqJ4bSlYJOXb6Z4SRmzxs,82,100,['pop'],91476272
+342,Rod Wave,45TgXXqMDdF8BkjA83OM7z,HG4,59ksHIFa69pi0az2bKdu6s,75,78,['florida rap'],5787712
+343,A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),3ZaEs1O8BG581qYPHpQ8d6,81,79,"['east coast hip hop', 'hip hop', 'rap', 'trap']",13001468
+344,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Call Your Mom (with Lizzy McAlpine),3fKpSA5w8iqLe9sNdIDESW,77,81,['pov: indie'],1483988
+345,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Better Than Revenge (Taylor's Version),0NwGC0v03ysCYINtg6ns58,81,100,['pop'],91476272
+346,Don Toliver,4Gso3d4CscCijv0lmajZWs,Private Landing (feat. Justin Bieber & Future),52NGJPcLUzQq5w7uv4e5gf,79,79,"['pop rap', 'rap', 'trap']",3396502
+347,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Paint The Town Red,7DlZH8EiVDgQXNoj3dnyZC,83,87,"['dance pop', 'pop']",27104305
+348,$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,"A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",4sX6GorfHFAy9UdJM00c3v,77,83,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",6237177
+349,Drake,3TVXtAsR1Inumwj472S9r4,Virginia Beach,6prWQW8NVawRNIeULPimTz,79,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+350,Código FN,4A4qYy2jK9DDN1OHV0nLkH,Mood Malandro,0zhymr6RqNuvp0RMIvdpdA,87,68,"['corrido', 'corridos tumbados', 'musica mexicana', 'norteno', 'sad sierreno']",870355
+351,Drake,3TVXtAsR1Inumwj472S9r4,First Person Shooter (feat. J. Cole),759fzpnRkH3yjHsqBsXwKK,79,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+352,Bibi Babydoll,6R26kGib2ubbZJMh7kKVGV,Automotivo Bibi Fogosa,4kRLRWnn5u9wO2wOKAAdEN,89,68,[],124902
+353,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Jake's Piano - Long Island,2pUYbyOIOSfDfsnCR3KceZ,75,86,"['classic oklahoma country', 'modern country pop']",2496766
+354,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Green Room,3MtB4aOzFkXJvAREmsy1Dj,77,77,['rage rap'],809613
+355,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Snow On The Beach (feat. More Lana Del Rey),4zmKGsrXjLmljb5fTaBTot,82,100,['pop'],91476272
+356,Drake,3TVXtAsR1Inumwj472S9r4,BBL Love - Interlude,1mjAD7IYvI5UGiB7WnppMf,78,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+357,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,hotline (edit),0WFryfbNKPXVtVQlz5dZ8H,85,86,"['art pop', 'pop']",88370218
+358,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,Bye,6n2P81rPk2RTzwnNNgFOdb,81,90,"['corridos tumbados', 'sad sierreno']",8745657
+359,Quavo,0VRj0yCOv2FXJNP47XQnx5,Turn Yo Clic Up (feat. Future),7LTCmtMpf3JPfBE8gAl64z,77,76,"['atl hip hop', 'melodic rap', 'rap', 'trap']",7004209
+360,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",5rurggqwwudn9clMdcchxT,82,85,['rap'],5971219
+361,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,Glue Song,3iBgrkexCzVuPy4O9vx7Mf,81,74,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2679814
+362,Becky G,4obzFoKoKRHIphyHzJ35G3,CHANEL,5RcxRGvmYai7kpFSfxe5GY,81,76,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",14061981
+363,Clara La San,3u65Tx20y4WqxO7W7khEhj,In This Darkness,6qrcJkIpuWpxH0ruS8WVAy,79,59,[],115952
+364,Toosii,6BH1xcDkwbbyrLMUKECsW1,Favorite Song,1SRw5p2lVAi7RGlHEmZg66,77,65,['north carolina hip hop'],1436482
+365,Junior H,7Gi6gjaWy3DxyilpF1a8Is,$AD BOYZ II,68cUJFq7aAbgeurngTmngL,83,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+366,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,My wrist (with Young Thug),2beD5W9IkefQ04IO39XF7w,79,81,"['pluggnb', 'rage rap']",3439622
+367,Conjunto Rienda Real,5N3AyFVEE8vJa7AZEl7nD3,Sobran Motivos,1uTHr7ij3eiDdUXvQfA5au,79,60,['sad sierreno'],98459
+368,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Succubus,2pcv4nUQqaZnJk1kYvCfXV,77,77,['rage rap'],809613
+369,Megan Moroney,5Ppie0uPnbnvGBYRwYmlt0,I'm Not Pretty,2ePiBvKtQOCBHq9uOlwiiU,75,65,['modern country pop'],173414
+370,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",6Ec5LeRzkisa5KJtwLfOoW,82,85,['rap'],5971219
+371,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Boyz Don't Cry,2z2gqgwu1GCurpZJYzcytE,75,78,['florida rap'],5787712
+372,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,Mmhmm,1nQaTUDJ7Rc4yOvZmg9Ozr,75,68,['southern hip hop'],237718
+373,NewJeans,6HvZYsbFfjnjFrWF950C9d,Cool With You,02wk5BttM0QL38ERjLPQJB,83,81,"['k-pop', 'k-pop girl group']",5963404
+374,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,Bite Me,7mpdNiaQvygj2rHoxkzMfa,86,75,"['anime', 'k-pop boy group']",6880672
+375,Laufey,7gW0r5CkdEUMm42w9XpyZO,Promise,08PdFBcXzpkn1cWNgmKqhn,79,77,['gen z singer-songwriter'],2052338
+376,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Fight The Feeling,4aA7Lrm6rLGHx5kRMVb7NU,75,78,['florida rap'],5787712
+377,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,PRC,0cNSq9T5l8gZnpY14rsTR2,81,90,"['corridos tumbados', 'sad sierreno']",8745657
+378,Young Nudy,5yPzzu25VzEk8qrGTLIrE1,Peaches & Eggplants (feat. 21 Savage),2KcQ0PbPj0O3P48B9YX7iN,76,70,"['pluggnb', 'rap', 'trap']",1341333
+379,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Long Journey,1xnAVO60FwWTRa7LJPoNKG,75,78,['florida rap'],5787712
+380,Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,Mama's Boy,65leXqfkdViSssEVN23uYL,81,74,"['alternative pop rock', 'pov: indie']",1383319
+381,HARDY,5QNm7E7RU2m64l6Gliu8Oy,red (feat. Morgan Wallen),2D3JfPyY2LkzXgNOb7qziR,75,71,"['contemporary country', 'modern country pop']",554303
+382,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Used To Be Young,0Nfh4u0J4bajcyp5pzaWCx,82,82,['pop'],22524507
+383,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,3D (feat. Jack Harlow),01qFKNWq73UfEslI0GvumE,89,88,['k-pop'],10924148
+384,Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,Dancin’ In The Country,2KtGiBi5CrX2ERPD2PAS34,76,62,"['contemporary country', 'modern country pop']",102346
+385,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Sparks Fly (Taylor’s Version),3MytWN8L7shNYzGl4tAKRp,81,100,['pop'],91476272
+386,Ovy On The Drums,3m5qlPf2OkihLz3dRYnkPA,GANGSTER (PQFNEDG),3Yw6KJjm8ycybvl6UdW9dq,81,71,"['colombian pop', 'reggaeton colombiano', 'urbano latino']",257376
+387,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Tradesman,6Otmq7JokHh38wKSqUimcS,75,86,"['classic oklahoma country', 'modern country pop']",2496766
+388,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,Wild as Her,3kXH9BQq0TyNliiP1MIE6N,75,62,"['modern country pop', 'texas country']",106419
+389,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),0AAMnNeIc6CdnfNU85GwCH,80,85,['rap'],5971219
+390,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Sunrise,0JtgoDDf0ggWaoXCGhcOoT,75,85,['contemporary country'],7537077
+391,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SKITZO (feat. Young Thug),0bkV1iQHSxBaksUqgEkcbc,80,90,"['hip hop', 'rap', 'slap house']",24940449
+392,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Me N My Kup,0hhNTyH6RJJGItHeSMCof3,76,77,['rage rap'],809613
+393,Sky Rompiendo,51XrH5fQP2oIQynuKxSWcW,El Cielo,4PA1wK0leCjmRZlP5dQ8Lv,88,68,['urbano latino'],88325
+394,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Muñekita (with El Alfa & JT),4PzxlHzDM3bDafkHjg1XCX,81,82,['colombian pop'],5569617
+395,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,Nun id change,00zk0uua6s2ifh0Nc3ppfW,81,81,"['pluggnb', 'rage rap']",3439622
+396,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,bigger thën everything,11B7WTuoInwUvuP1BnnGWW,78,81,"['pluggnb', 'rage rap']",3439622
+397,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,MODERN JAM (feat. Teezo Touchdown),3KCNiDi9Pza6ZD8FggNoaw,80,90,"['hip hop', 'rap', 'slap house']",24940449
+398,Lijay,3Ph8hNhDsxyruCsu6QyNfJ,I love freaks,2OwdUZPORY0EAdRBF9hSZD,78,57,[],61087
+399,Victoria Monét,63XBtGSEZINSyXylZxEUbv,On My Mama,7DswEZZthZ6piQpL25qGAM,76,68,['alternative r&b'],823017
+400,Maluma,1r4hJ1h58CWwUQe3MxPuau,Según Quién,4bw8mcDUSRWfQo63ZTYRnU,89,83,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",34449469
+401,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,the way things go,5sA3i6SGkILMiZW6Fhx4wv,78,74,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2679814
+402,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Fell In Love,1N8klHEbZ0bFOHnMVs8C9S,78,81,"['brostep', 'edm', 'pop', 'progressive electro house']",35052302
+403,"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,DOGTOOTH,6OfOzTitafSnsaunQLuNFw,77,82,"['hip hop', 'rap']",13017810
+404,That Mexican OT,3BAgmPNIK5IJl7zMK1wvMA,Johnny Dang (with Paul Wall & DRODi),6XEt23sq6sRgER8sSZbCR5,74,69,['texas latin rap'],432576
+405,KAROL G,790FomKkXshlbRYZFtlgla,X SI VOLVEMOS,4NoOME4Dhf4xgxbHDT7VGe,84,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+406,Riley Green,2QMsj4XJ7ne2hojxt6v5eb,Different 'Round Here,4l5w5qGInIhwfvpYmPIYdK,76,67,"['contemporary country', 'country road', 'modern country rock']",614254
+407,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,"Pain, Sweet, Pain",4KaCwku7yZUrDRcOc9rMmQ,75,86,"['classic oklahoma country', 'modern country pop']",2496766
+408,Ice Spice,3LZZPxNDGDFVSIPqf4JuEf,In Ha Mood,0yUaLqhsVsguBpoOPL4cO7,78,76,['bronx drill'],2285671
+409,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Everything I Love,03fs6oV5JAlbytRYf3371S,75,85,['contemporary country'],7537077
+410,SNOW WIFE,7CV3dQkhJB2dEqb85ICD33,AMERICAN HORROR SHOW,38RLObegC9ggpKPRVQDc1g,79,59,[],77185
+411,SZA,7tYKF4w9nC0nq9CsPZTHyP,Snooze (Acoustic) (feat. Justin Bieber),5YABYtKx9qa56vBjlXDbmw,81,87,"['pop', 'r&b', 'rap']",15553223
+412,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,EXCESOS,6UtWwuheJr5LLDeVypPNx7,82,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+413,S3BZS,6zFMFB1JvNHkHvCSudF4id,MONTAGEM - PR FUNK,6njJR3OIp3oA0Kc4aC9Tzf,88,68,[],79891
+414,Xavi,3Me35AWHCGqW4sZ7bWWJt1,Poco A Poco,4loIMejzvt11s97SGVEat8,85,70,['sad sierreno'],228867
+415,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,Think I'm In Love With You,65M92JpTbAdHmTQm4jGaDa,75,77,"['contemporary country', 'outlaw country']",6280135
+416,Drake,3TVXtAsR1Inumwj472S9r4,On The Radar Freestyle,1L0OmJV0LnPDWuHCIGmBV6,80,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+417,Marshmello,64KEffDW9EtZ1y2vBYgq8T,El Merengue,51FvjPEGKq2zByeeEQ43V9,89,81,"['brostep', 'edm', 'pop', 'progressive electro house']",35052302
+418,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Oklahoman Son,4ueTr01dkL360w1knfh21C,74,86,"['classic oklahoma country', 'modern country pop']",2496766
+419,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,Rush,4ZnkygoWLzcGbQYCm3lkae,84,78,"['australian pop', 'pop', 'viral pop']",7993254
+420,That Mexican OT,3BAgmPNIK5IJl7zMK1wvMA,Hit List (with BigXthaPlug & Big Yavo),6tiYQ631gOeBb2jCtaIs0R,74,69,['texas latin rap'],432576
+421,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,CARNAL,2bXJMQZSJND3UYq5mjV4cB,83,90,"['corridos tumbados', 'sad sierreno']",8745657
+422,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Fear and Friday's (Poem),44IXD2J5yyr7PpOZzz2cmQ,74,86,"['classic oklahoma country', 'modern country pop']",2496766
+423,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Dear John (Taylor's Version),1zU8j1x3yi9xalMF96pzKp,80,100,['pop'],91476272
+424,Britney Manson,7GtPtPbDC5CLNzSNxVpqaf,FΛSHION,4YQgOgIElFtEvwJQ9ArWL7,83,62,[],92318
+425,TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,Chasing That Feeling,0ZPjVmof45INEERgYfadtv,84,77,"['k-pop', 'k-pop boy group']",8947997
+426,JVKE,164Uj4eKjl6zTBKfJLFKKK,this is what autumn feels like,2YOGCTiPJWMhZRdeadFj8G,79,75,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",3342652
+427,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,BROAD DAY (feat. Future),6Qc90FMwNUjJ2M893RdYUg,77,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",3184634
+428,Isabel LaRosa,5arKwJZEvT5uKq4o0JfqR4,older,75c2zaSdDBSX0A8Jyvm4fO,84,71,"['dark r&b', 'hyperpop', 'sped up']",655955
+429,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,BYE,6f8wbdo8KU5ETWJA7lapgS,79,90,"['corridos tumbados', 'sad sierreno']",8745657
+430,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,SIRENS,7LSpFCvRZZot2AlmkUzy9k,80,90,"['hip hop', 'rap', 'slap house']",24940449
+431,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,Got Me Started,31MNHKE86sEXzIglbGQ6mu,82,78,"['australian pop', 'pop', 'viral pop']",7993254
+432,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Come See Me,0wGVE3BxTW5KCjoLsNlVRB,73,78,['florida rap'],5787712
+433,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Paul Revere,1dHtMSJ1Ozg2Ja6GX4McAO,75,81,['pov: indie'],1483988
+434,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,JEALOUSY (feat. Cardi B),73S4fsK22WH929PLFNYgOj,76,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",3184634
+435,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Nostalgia,7ry34dFOuoK2c5GoYWWsl3,73,78,['florida rap'],5787712
+436,Latto,3MdXrJWsbVzdn6fe5JYkSQ,Put It On Da Floor Again (feat. Cardi B),6c6WmIHcHlhccEwSFBhzNa,75,82,['trap queen'],1281401
+437,Carin Leon,66ihevNkSYNzRAl44dx6jJ,Primera Cita,25OeKzcqakFPaJlXHPE5lm,87,84,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",8632339
+438,KAROL G,790FomKkXshlbRYZFtlgla,MIENTRAS ME CURO DEL CORA,6otePxalBK8AVa20xhZYVQ,86,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+439,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Lose It,5ZY2fIqxuKDr5pdz0ucpRz,76,77,['rage rap'],809613
+440,Kanii,1S82w4yw9TYIHZ889mPPaW,I Know - PR1SVX Edit,3vcLw8QA3yCOkrj9oLSZNs,79,68,"['bedroom r&b', 'sped up']",302014
+441,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,I Remember Everything (feat. Kacey Musgraves),58pTPJPBjw1xL9OcLcQczU,75,86,"['classic oklahoma country', 'modern country pop']",2496766
+442,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,"Like This (feat. Lil Uzi Vert, Destroy Lonely)",1DypGkTryeH4cPFBVucxo4,76,77,['rage rap'],809613
+443,Drake,3TVXtAsR1Inumwj472S9r4,Screw The World - Interlude,0ArVfVP8B5svkfj8clHNzB,76,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+444,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Red Ruby Da Sleeze,4ZYAU4A2YBtlNdqOUtc7T2,77,84,"['hip pop', 'pop', 'queens hip hop', 'rap']",29916959
+445,Luke Combs,718COspgdWOnwOFpJHRZHS,Love You Anyway,2kYevr8cbIAH2ha8210Bnz,76,81,"['contemporary country', 'country']",9487592
+446,Polo G,6AgTAQt8XS6jRWi4sX7w49,Barely Holdin' On,7kSBvPr9it26XjylB5LJkx,77,79,"['chicago rap', 'rap']",10315489
+447,KAROL G,790FomKkXshlbRYZFtlgla,MI EX TENÍA RAZÓN,7mLPSkAJraASgNk6ywyTkp,84,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+448,Stray Kids,2dIgFjalVxs4ThymZ67YCE,S-Class,3gTQwwDNJ42CCLo3Sf4JDd,84,80,"['k-pop', 'k-pop boy group', 'pop']",13195370
+449,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Mean (Taylor's Version),30Y4CV7A6YqtQtTTo7Ue4j,79,100,['pop'],91476272
+450,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,Penthouse,5rCt377EMkCJ0D0sldd5t8,75,67,"['contemporary country', 'country']",1098907
+451,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,The Summoning,0S38Oso3I9vpDXcTb7kYt9,76,70,['prog metal'],751274
+452,Yahritza Y Su Esencia,51ZSh80McCt7vbqHouzW0A,Frágil,4JdSXF2p71cr8uCY3UiJM0,85,68,['sad sierreno'],742486
+453,boygenius,1hLiboQ98IQWhpKeP9vRFw,Not Strong Enough,09DR0sHnQUhHOiSNttc1mv,77,67,['indie pop'],564004
+454,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,HVN ON EARTH (with Kodak Black),4CIyxiObT9G35HrSItAblR,76,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+455,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,56xHMIfQPoe0prrSi3BGhf,78,87,['pop'],29609037
+456,Lil Durk,3hcs9uc56yIGFCSy9leWe7,All My Life (feat. J. Cole),6T7FXSuXykeGktMLGp8WgE,77,80,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",6464360
+457,Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,Ocean Spray,6dNOefmb6Lgl5vNtJsSajt,75,73,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",4103329
+458,KAROL G,790FomKkXshlbRYZFtlgla,DISPO,4iGQ8o9Ih6J1OuDDGCXSCL,83,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+459,IVE,6RHTUrRF63xao58xh9FXYJ,Baddie,7uyeEbG6hyApgXuEypGcsZ,83,74,['k-pop girl group'],3066002
+460,Hozier,2FXC3k01G6Gw61bmprjgqS,Eat Your Young,2SXx7Ofa79CeJfio98aJcG,73,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+461,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Cruel Summer - Live from TS | The Eras Tour,6ClYMObS7f3Nn4AiZHYQt3,79,100,['pop'],91476272
+462,V,3JsHnjpbhX4SnySpvpa9DK,Slow Dancing (Piano Ver.),7pgbDdy7ax962o9d2xJceV,86,81,"['j-division', 'korean ost']",15942272
+463,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Crazy,4RMm3bonEDyYj5aJGkaJqX,73,78,['florida rap'],5787712
+464,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,Baby Don't Hurt Me,3BKD1PwArikchz2Zrlp1qi,88,84,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",26392594
+465,NF,6fOMl44jA4Sp5b9PpYCkzz,HAPPY,3ZEno9fORwMA1HPecdLi0R,78,77,"['hip hop', 'pop rap']",9161303
+466,Young Nudy,5yPzzu25VzEk8qrGTLIrE1,Peaches & Eggplants (feat. Latto & Sexyy Red),1BmI4EYdfzbg8DlV6pHYrY,74,70,"['pluggnb', 'rap', 'trap']",1341333
+467,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,I Wrote The Book,7phmBo7bB9I9YifAXqnlqV,73,85,['contemporary country'],7537077
+468,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Outside All Night (feat. A$AP Rocky & N3WYRKLA),1dbar1XukTbn7FQzQTqDQK,75,82,"['r&b', 'rap']",4864019
+469,V,3JsHnjpbhX4SnySpvpa9DK,For Us,4HAOgAnILvXCbSODMoRnmD,85,81,"['j-division', 'korean ost']",15942272
+470,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Dying Man,4kvjThnfQIsPOKjxx0aZDu,74,85,['contemporary country'],7537077
+471,Imq,4RZMsKF5abzZC14uzlD489,Beast Mode,098mO3OS4dUppQwY0ESLNa,72,49,[],3359
+472,Lil Yachty,6icQOAFXDZKsumw3YXyusw,drive ME crazy!,6luBKkFUt5wTwz7hpLhp12,75,76,"['atl hip hop', 'melodic rap', 'rap', 'trap']",9401017
+473,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Upset (feat. Tommy Richman & FELIX!),5iwUwADk4uQUvgMF6PlTRl,75,82,"['r&b', 'rap']",4864019
+474,Lyrical Lemonade,3VrGfWE8YdYMK4ySpnE0ly,Doomsday (with Juice WRLD & Cordae),3bkpVSoNvBkvt9LJMFT5at,76,55,[],51358
+475,Lil Yachty,6icQOAFXDZKsumw3YXyusw,SOLO STEPPIN CRETE BOY,7CIvyuVoWcY0LgUYa1aR5J,74,76,"['atl hip hop', 'melodic rap', 'rap', 'trap']",9401017
+476,Oscar Maydon,3l9G1G9MxH6DaRhwLklaf5,Skin de Bandida,5SHXikmjPwChjvpVIeYkMf,86,73,"['corrido', 'corridos tumbados', 'sierreno']",634273
+477,Carly Pearce,4sIl4BTo9l9KqEi0Y3RE72,We Don't Fight Anymore,2dPwBKr5uJeCeyd5IoWi8W,74,61,"['contemporary country', 'country', 'country road']",354657
+478,NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,SLUT ME OUT,0WoVfPjxsf9MTvPt9ptqeE,76,77,"['memphis hip hop', 'rap']",6990711
+479,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Aye (feat. Travis Scott),2Hc1LaV6bzFil3dE71eORA,76,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+480,Hozier,2FXC3k01G6Gw61bmprjgqS,Unknown / Nth,1ptwL6lZNLc654XAaHqcHb,73,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+481,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,GOD'S COUNTRY,04WxWo7XeVyx22xEsrWRUb,79,90,"['hip hop', 'rap', 'slap house']",24940449
+482,Bizarrap,716NhGYqD1jl2wI1Qkgq36,"Shakira: Bzrp Music Sessions, Vol. 53",4nrPB8O7Y7wsOCJdgXkthe,87,84,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",13112309
+483,NewJeans,6HvZYsbFfjnjFrWF950C9d,Get Up,1wUnuiXMMvhudmzvcCtlZP,80,81,"['k-pop', 'k-pop girl group']",5963404
+484,Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,Always,2LlOeW5rVcvl3QcPNPcDus,85,78,['canadian contemporary r&b'],4709006
+485,Tems,687cZJR45JO7jhk1LHIbgq,Me & U,4nFrcGM7MY1mpoQCC7Kefj,81,72,"['afro r&b', 'alte', 'nigerian pop']",1274813
+486,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,Tucson Too Late,2hNQDbZcN3vqRAuwiz7poI,73,71,['contemporary country'],1064176
+487,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,But I Got A Beer In My Hand,3jhV8I9sIPXsjPs2ZOnSaf,74,73,"['contemporary country', 'country', 'country road', 'modern country rock']",8538373
+488,$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,Finding Shelter In My Larynx,7FzP0ZPkQZpV5rauVyb7R6,74,83,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",6237177
+489,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,No Complaints,52DudaVZObvmBgEX6IObHX,74,81,['pov: indie'],1483988
+490,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Foolish One (Taylor’s Version) (From The Vault),4s8BIKx4Zh6ryAEz8RTlaU,78,100,['pop'],91476272
+491,Lil Yachty,6icQOAFXDZKsumw3YXyusw,Strike (Holster),7iTTWHbr4tAlsRJN4m4bay,75,76,"['atl hip hop', 'melodic rap', 'rap', 'trap']",9401017
+492,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,back to the moon,3OGCNLxpBmTYRxPZg2yDE5,76,82,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6160788
+493,Carin Leon,66ihevNkSYNzRAl44dx6jJ,No Es Por Acá,6tEl8GwFJEFyxZAO1ibTRF,83,84,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",8632339
+494,Lil Wayne,55Aa2cqylxrFIXC767Z865,To The Bank,3h4HlcmWdexWJ6SSyZG67E,74,83,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",14144830
+495,That Mexican OT,3BAgmPNIK5IJl7zMK1wvMA,Cowboy Killer,5SGWCqheDXPlYnv9aQs795,72,69,['texas latin rap'],432576
+496,Richard Carter,6jlwBcuB3gOuSR4Hb6MmVU,Le Monde - From Talk to Me,424DkevE18QJazwlljiTD4,82,60,[],22079
+497,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),4e3ZNTAV6PCrdYMUrUlMpQ,78,100,['pop'],91476272
+498,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Overtime,4hZi9952OTtYQnXo2FJT6C,75,77,['rage rap'],809613
+499,Bryan Martin,0ChjBYedhZTQnWZWQYg15U,Wolves Cry,7yyRhjoCsdt5dDpFz2CImD,74,67,['modern country pop'],104799
+500,Tainy,0GM7qgcRCORpGnfcN2tCiB,COLMILLO,6tg97bZpaIpDSEcWMGXfOT,83,78,"['pop reggaeton', 'reggaeton', 'trap latino', 'urbano latino']",1807371
+501,Lefty Sm,6eXHRfK9Ad3IpMpSAqvcDf,Por Mi México (Remix),2m3Fqmw1mfs39KklPmjq79,83,75,['mexican hip hop'],1288371
+502,(G)I-DLE,2AfmfGFbe0A0WsTYm0SDTx,Queencard,4uOBL4DDWWVx4RhYKlPbPC,85,74,['k-pop girl group'],7735521
+503,FISHER,1VJ0briNOlXRtJUAzoUJdt,Atmosphere,1aNUSKBe6UMyMk3pEu9ws7,78,68,"['australian house', 'house']",828626
+504,Corey Kent,3sUpZrkehiGBaMzs2h9Mmc,Something's Gonna Kill Me,41cv1emXVm5Su4DWvltXa6,73,62,"['modern country pop', 'texas country']",106419
+505,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Just Wanna Rock,4Ls53fBNVfaXTROBi6X8Hw,78,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+506,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,Outskirts,2E0bqoMlIb2xmFyZHRjtzK,73,67,"['contemporary country', 'country', 'country pop', 'modern country rock']",2311279
+507,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),4ABYxlb92WBIjHu7TIKmml,78,100,['pop'],91476272
+508,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Te Mata,4kvDU8vfvxupVezsVPag5v,77,82,['colombian pop'],5569617
+509,Chance Peña,4lhUHpVOXmkEBGGHV71QCh,i am not who i was,5uu2OCGGrTRS1sIvlMgKwe,79,67,['singer-songwriter pop'],194883
+510,Tyga,5LHRHt1k9lMyONurDHEdrp,Brand New,3MbOT5mzE94Ne0Hv51akoS,75,77,"['hip hop', 'pop rap', 'rap', 'trap']",6891501
+511,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Best Time,1zgHn1EqUyA0HqNYMdJ5ia,75,82,"['r&b', 'rap']",4864019
+512,Frizk,2kytM35nXuQfdxPeoLgE0K,ALL MY FELLAS,1ckhUtD8nBH2ShPlU8w2nU,80,58,[],16014
+513,Michelle Maciel,4WFwvZ4L8FZbt3qubbQJS6,CCC - Remix,1SlPNQ3vAF56AiHr6Ul6jM,85,67,['urbano mexicano'],87457
+514,YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,Bitch Let's Do It,3EN9CgupFLmuwmHYUPq0ny,73,80,"['baton rouge rap', 'rap']",11983412
+515,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Last One Left (feat. Missy Elliott & Lil Gray),0cZ9HBGWLZJS7UHCgWXOTZ,74,82,"['r&b', 'rap']",4864019
+516,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You - Remix,7oDd86yk8itslrA9HRP2ki,84,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+517,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,NO SE VA - EN VIVO,76kelNDs1ojicx1s6Urvck,81,83,['musica chihuahuense'],2228742
+518,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Forever Yours,2JqkpMe2eJToJNHEqkJeCu,74,82,"['r&b', 'rap']",4864019
+519,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Speak Now (Taylor's Version),5xXqyjLicvEpch72qEryFT,79,100,['pop'],91476272
+520,DaBaby,4r63FhuTkUYltbVAg5TQnk,SHAKE SUMN,3FhZPYvMGSjFc6boVYKlCv,74,77,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",11324254
+521,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Endless Fashion (feat. Nicki Minaj),41bmnQZoDMQdDh5zyomtW7,75,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+522,DENNIS,6xlRSRMLgZbsSNd0BMobwy,Tá OK (Remix),35FW5OEe4p38LdjK1KqT2X,83,69,"['funk carioca', 'funk das antigas', 'sertanejo universitario']",2150120
+523,V,3JsHnjpbhX4SnySpvpa9DK,Blue,2UU11hvjN1JIn4iihEodNT,85,81,"['j-division', 'korean ost']",15942272
+524,Raquew de lancastre,7dXSzE8KhXQt5EcR1FobXz,chill 2,6wcOZYN94DqWv7IbWuO9V4,71,48,[],230
+525,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Hardcore,39xDX63yonTblgoHdTKLtI,75,77,['rage rap'],809613
+526,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,"Your Needs, My Needs",5S9hlmzNQwZuhynLfxZ8Lg,74,81,['pov: indie'],1483988
+527,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Story Of Us (Taylor's Version),6dTA6y0C2ReQklntzZl8l3,79,100,['pop'],91476272
+528,V,3JsHnjpbhX4SnySpvpa9DK,Rainy Days,5ydjxBSUIDn26MFzU3asP4,86,81,"['j-division', 'korean ost']",15942272
+529,Toosii,6BH1xcDkwbbyrLMUKECsW1,Pull Up (feat. 21 Savage),4EzkcqltSOxYE2lstuLOFs,75,65,['north carolina hip hop'],1436482
+530,alex_g_offline,0bC6e2YtIRLbKx2txHFmEo,I Wait for You,7EDcAz6iuKSkxH4VcC3Oko,76,60,[],94892
+531,Drake,3TVXtAsR1Inumwj472S9r4,Gently (feat. Bad Bunny),5xzOYsed90dyzNH7MSigpp,80,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+532,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,WY@,1cFKKdG6gmpptMBFxasJOE,76,82,"['r&b', 'rap']",4864019
+533,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,Did Me Wrong,2hkcNrUwTVwKqjfUO1Kx3d,75,78,"['melodic rap', 'rap', 'trap']",7800853
+534,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Gun,15sNe8FD178zMsVz6ug0AS,77,87,"['dance pop', 'pop']",27104305
+535,Grupo Firme,1dKdetem2xEmjgvyymzytS,Qué Onda Perdida,3upTB6o5YgeALHgDp3mzte,83,78,"['musica mexicana', 'norteno', 'sierreno']",11259822
+536,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),4GL9GMX9t7Qkprvf1YighZ,79,90,"['hip hop', 'rap', 'slap house']",24940449
+537,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,One Of Your Girls,1Fav4xZn60uGM3XmiHJmvT,80,78,"['australian pop', 'pop', 'viral pop']",7993254
+538,KAROL G,790FomKkXshlbRYZFtlgla,UNA NOCHE EN MEDELLÍN - REMIX,6ejks4eS7DOoYW8hrpRcDV,82,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+539,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,EN ALTAVOZ,1EKZmfqveHKe78Isfk07w4,81,83,['musica chihuahuense'],2228742
+540,Taylor Swift,06HL4z0CvFAxyc27GXpf02,When Emma Falls in Love (Taylor’s Version) (From The Vault),0zo975x58DlXbZllWvfYhg,78,100,['pop'],91476272
+541,V,3JsHnjpbhX4SnySpvpa9DK,Love Me Again,0SftJDguUa1F5SsQwwkLw4,86,81,"['j-division', 'korean ost']",15942272
+542,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Timeless (Taylor’s Version) (From The Vault),1HCdems7PQZRj42QDWLA0A,78,100,['pop'],91476272
+543,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Rockstar Lifestyle,5I8LS9jiW5xju1lzakh1s3,75,77,['rage rap'],809613
+544,FIFTY FIFTY,4GJ6xDCF5jaUqD6avOuQT6,Cupid - Twin Ver.,739WUU1tPFLO4x4HJq561K,82,70,['k-pop girl group'],1343574
+545,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,i need u,3YBU7JlsPHIXhEuc7OXrIT,75,77,['rage rap'],809613
+546,Jasiel Nuñez,0T8Ix53aIN4F7aEKj4EnKy,Corazón Frío,0KSwFEkVh0KCBR0TwqBVen,78,72,[],115759
+547,boygenius,1hLiboQ98IQWhpKeP9vRFw,Cool About It,5PJH1U5Iie893v48Fl9yaC,76,67,['indie pop'],564004
+548,Rod Wave,45TgXXqMDdF8BkjA83OM7z,2018,1VSJTVzLy3NfHQB6DpjKk9,72,78,['florida rap'],5787712
+549,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Eyes Closed,3p7XQpdt8Dr6oMXSvRZ9bg,85,86,"['pop', 'singer-songwriter pop', 'uk pop']",115139884
+550,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,It’s Over,6dhLnWxKnrrCszvUKRPkNq,74,77,['rage rap'],809613
+551,blink-182,6FBDaR13swtiWwGhX1WQsP,ONE MORE TIME,5VEnzMXc8ocZko4M4TqnR2,78,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",7885839
+552,$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,"Six Lines, Two Dragons, and a Messiah",4Xid2bPvFoMcwp6NeUT2Ap,73,83,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",6237177
+553,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,QUE VUELVAS,5HR7yfhSCeoOHRQN05XnZQ,82,83,['musica chihuahuense'],2228742
+554,Tito Double P,5eumcnUkdmGvkvcsx1WFNG,DEMBOW BÉLICO,0FkD2FHEZrZIofVkY6XPFK,83,71,['corrido'],144604
+555,USHER,23zg3TcAtWQy7J6upgbUnj,Good Good,0J1YRLYhTG1MBosjidD7OI,76,77,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",10786123
+556,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Call Your Mom,3yn01PcU95PTbiZ3xvop2j,74,81,['pov: indie'],1483988
+557,removeface,4V83nubSLv0NZBo69fz8PF,ON THE FLOOR,3j9Ivwkg9sYcaR9mlnjsAX,78,57,['sigilkore'],66009
+558,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Demons,1xemKSmCnH59ze3KX5wwgH,77,87,"['dance pop', 'pop']",27104305
+559,JaidynAlexis,1bu90rjktSmOd2wveQoIKi,Barbie,0wnZP5KJSJ8xmTJmmjOqwr,75,52,[],10999
+560,The Beatles,3WrFJ7ztbogyGnTHbHJFl2,Now And Then,4vziJcnB2Qyi9o4nIRUeN7,83,81,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",26447038
+561,Ovy On The Drums,3m5qlPf2OkihLz3dRYnkPA,EL HECHIZO,1mF6RkY7x1KsDBZS6cV5f1,78,71,"['colombian pop', 'reggaeton colombiano', 'urbano latino']",257376
+562,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,La Bachata,3tt9i3Hhzq84dPS8H7iSiJ,85,80,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",13180407
+563,Becky G,4obzFoKoKRHIphyHzJ35G3,POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar),6VsqdsaY4oV06NODea0L0J,81,76,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",14061981
+564,Kanii,1S82w4yw9TYIHZ889mPPaW,Go (Xtayalive 2),1slDsIJxew9AOOA3v0xFzn,77,68,"['bedroom r&b', 'sped up']",302014
+565,NewJeans,6HvZYsbFfjnjFrWF950C9d,ASAP,5fpyAakgFOm4YTXkgfPzvV,81,81,"['k-pop', 'k-pop girl group']",5963404
+566,Becky G,4obzFoKoKRHIphyHzJ35G3,2NDO CHANCE,4JyfG2WBcDjlc8TODyBIbx,76,76,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",14061981
+567,Diplo,5fMUXHkw8R8eOP2RNVYEZX,Heartbroken (feat. Jessie Murph & Polo G),6NdnvPwQvZb147DVa4x14h,76,75,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",2576969
+568,alex_g_offline,0bC6e2YtIRLbKx2txHFmEo,Pretend,0tGqk0HlYMQ16aj7yJwleF,76,60,[],94892
+569,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,LAS MORRAS,0lc2neV7ZzjZExwCIVG2B3,78,90,"['corridos tumbados', 'sad sierreno']",8745657
+570,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Vampire Hour,1U29Vg8V5ivbxirZaG7XAR,74,77,['rage rap'],809613
+571,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Haunted (Taylor's Version),4tMzIAFTFdqGBQLdfbPces,77,100,['pop'],91476272
+572,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Out of Time,7vgn9nppFQODNFSAI3PhWd,5,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+573,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,0AYbYBTgEPgRmDnk2u6OQv,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+574,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Blinding Lights,72JK4dQucgW046zd9SQIWR,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+575,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Popular - Music from the HBO Original Series,22x8qhtiGTx7xU6mz1T2aE,6,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+576,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Blinding Lights,6BdStXIdYMmEJed1zJUHkr,3,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+577,Lumi Athena,1TTHC3GlNDaE5eVoC3BVxm,LET ME SEE YA MOVE!,5z6IuFSIc3OrZGDC2Q9icP,78,70,"['sigilkore', 'sped up']",579701
+578,blink-182,6FBDaR13swtiWwGhX1WQsP,ANTHEM PART 3,2kjH4Q6WxvlpGnlgwmv4eG,77,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",7885839
+579,Lil Baby,5f7VJjfbwm532GiveGC0ZK,Go Hard,1IzJxbARcQrOWMZgPw1PNj,74,84,"['atl hip hop', 'atl trap', 'rap', 'trap']",15746585
+580,Victoria Monét,63XBtGSEZINSyXylZxEUbv,On My Mama,1o8Z7GD1CeOaVBEyuzu4HO,75,68,['alternative r&b'],823017
+581,Diplo,5fMUXHkw8R8eOP2RNVYEZX,Heartbroken - Jessie Version,60bbiP93CSxmLibuwvxay9,73,75,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",2576969
+582,Luca Mele,4IDzZiQ5eLD1HpsLtKqkXQ,New Fam 2,2AOZQpJdjv5FRM2bHBsVD5,70,47,[],20030
+583,Junior H,7Gi6gjaWy3DxyilpF1a8Is,LA CHERRY,2a8yglXvNw07OWu4lO2ByG,80,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+584,Tito Double P,5eumcnUkdmGvkvcsx1WFNG,LA 701,62vhlXTC4rrb13dVUlyYpO,82,71,['corrido'],144604
+585,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Call Out My Name,4XqczOAx1WqTRsuRwcMzsR,3,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+586,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Call Out My Name,2QTKo9cLPNo9nOGy9lOrh5,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+587,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy,63Vbrr4rLLPEGr5JKuURuU,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+588,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,I Feel It Coming,0YtFLRMc3ZdiAnIYOSNUgo,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+589,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Reminder,6g2sW6zQj9RK9V0gCMqvUF,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+590,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Is There Someone Else?,0Z6MIlJDjWR33HZQyi9EnK,4,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+591,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,63t9P3jgV6YZeXgKJVL6Pr,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+592,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,I Feel It Coming,0yHgWrJAWTz0LDMVJSxxly,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+593,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy,68vxy7hG5VM0LLcfEviG81,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+594,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"Earned It (Fifty Shades Of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",5VwPQ67RnKd7PRPpzqq1sq,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+595,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,I Feel It Coming,6PK36ASItqsUKzLbRqmyPp,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+596,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,7sjGdPUjTHQ7hHEBjLoRNC,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+597,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Call Out My Name,00ZvUqyarh9Kb32dsF6tJg,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+598,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Reminder,4R4ytjX1VbW8ewn03PruwL,2,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+599,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Blinding Lights,1S5Jx1fiigVJY0OSAt5qGc,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+600,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,7CnkF0nZ7IHGzFUGTY8L9z,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+601,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Earned It (Fifty Shades Of Grey),1Syo2PLDVsq4cOZPDM9ewD,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+602,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Can't Feel My Face,5hYvgg2VChQErci875xVU3,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+603,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,1Wpil5J78JcLBCGR7psA0m,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+604,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,4nZao8gW3arr3QRGNvENnF,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+605,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Can't Feel My Face,1Gnyt1wk4a3KnxT6E7T34h,2,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+606,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Is There Someone Else?,2XoaAaZJcKLg1mX8IRdhEr,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+607,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy,1Olo180aj4CoUBxdUpKGKf,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+608,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,6B5j9OjFBmyIZbvR57mGNR,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+609,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Call Out My Name,0iwWlPe5L0CtS5G0xpyeY0,2,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+610,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Less Than Zero,7HvpYpYQGZ0IVnbCfh6HRj,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+611,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,7pKT4I014zXJ8XJdD1ZhzW,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+612,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dark Times,2qth6Qb8nUluuDGV0uN48c,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+613,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Save Your Tears,0nijv6WXoNd8g3ISchEUMZ,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+614,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy,4oNTNWb4iFHFCIfDBf1ge9,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+615,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Often - Kygo Remix,5U5sgSEsaxANe8qf66W1HN,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+616,Drake,3TVXtAsR1Inumwj472S9r4,Calling For You (feat. 21 Savage),4ZerVPIpjjqG7pGQJ9KgDT,76,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+617,Natanael Cano,0elWFr7TW8piilVRYJUe4P,El Toro Encartado - Spotify Singles,2cpAMkytkJoaaLYO6pXBey,83,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+618,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,Glue Song (feat. Clairo),0tMMPZEt6Gyrl9FI8zSicm,78,74,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2679814
+619,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Nightcore,5wotbFovMedDXEMKC4DrHf,74,77,['rage rap'],809613
+620,Hozier,2FXC3k01G6Gw61bmprjgqS,De Selby (Part 2),3SRtygyWBQnoxuOPtdBPm2,72,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+621,Jimin,1oSPZhvZMIrWW5I41kPkkY,Face-off,3OdIiWnYRHPYtC313Z0Bwy,82,80,['k-pop'],6820194
+622,Falling In Reverse,2CmaKO2zEGJ1NWpS1yfVGz,Watch The World Burn,4CiVz4bw7X1zjCaJ5ZwxUS,78,69,"['alternative metal', 'pop punk', 'rap metal']",2838023
+623,Muscadine Bloodline,0EyZDKtc41e4A3a3v69MxD,Me On You,1wwjfgCUXaupR7q3tv6ZXN,73,62,['modern country pop'],214912
+624,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,I Was Never There,2b8yhmg8qCoR9G3rH64pS9,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+625,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You,7ApZEigUvQZ87ZkM2VQ8rD,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+626,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy,1JGUmx1KbVxbKrIGl3iow8,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+627,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Save Your Tears,3C2OESevCYUUStGBvOTdto,1,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+628,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Take My Breath - Single Version,4GMsq004Z94gPkYSv6iOXS,0,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+629,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,I Can Feel It,2eGvz6O6tVnh9nKiitDEhZ,73,70,"['black americana', 'contemporary country', 'country', 'country road']",5204805
+630,Summer Walker,57LYzLEk2LcFghVwuWbcuS,"To Summer, From Cole - Audio Hug",2f86Ae3R4OKAu1lEIqouih,75,77,"['r&b', 'rap']",5610541
+631,Paris Paloma,2EXpthNgSeTDeX8nGwxppp,labour,2Ggr9IfS70wYQacW8nZKPG,78,60,['singer-songwriter pop'],265637
+632,Memphis Cult,6n9sdNb7mWvVmARDT6ujnJ,9mm,2Dp5Rqruog8SR6x7UtlIpY,83,63,['memphis phonk'],89309
+633,Luke Combs,718COspgdWOnwOFpJHRZHS,Where the Wild Things Are,0eBFgRxyVSeuT4iyrbukdn,76,81,"['contemporary country', 'country']",9487592
+634,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Tim's Intro,7qzQfE2se3Ai5reZcxs920,73,82,"['r&b', 'rap']",4864019
+635,Parker McCollum,0Z8XVUAOBPM4x12wKnFHEQ,Burn It Down - Radio Edit,4bARASJEokNacSYtEhoNBp,72,65,"['classic texas country', 'texas country']",370506
+636,Mae Stephens,311uEW9rt5g2NmzjGEKS2E,If We Ever Broke Up,6maTPqynTmrkWIralgGaoP,83,65,['singer-songwriter pop'],145841
+637,6YNTHMANE,24YUNOEuu3kf4OOtC8cQE5,BRAZILIAN DANÇA PHONK,6yVjjQA31SLM1kc4j5jPwF,85,64,[],70433
+638,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Pots,1uKWqIe47TjOC06rvTEWQa,74,77,['rage rap'],809613
+639,Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,LOKERA,1aUq8rjW1EwkAkMri4VfJy,80,85,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",19176252
+640,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Die For You (with Ariana Grande) - Remix,4W4fNrZYkobj539TOWsLO2,84,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+641,Michelle Maciel,4WFwvZ4L8FZbt3qubbQJS6,CCC,7uuqrSuCjWxPTCVyOeGMyt,84,67,['urbano mexicano'],87457
+642,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,I Wish you Roses,35SbrfbaSpGUBX7e5BPega,74,82,['colombian pop'],5569617
+643,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,Dead or Alive,5itTZ7kNRBl65Nn1QO9Ax9,74,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+644,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,Out Of That Truck,1xdsRkWxWWUkKhh9hRtfYp,72,68,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'country road', 'dance pop']",5889576
+645,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Boys Of Faith (feat. Bon Iver),4Zj2uX6ApCFK9XzjwIhCIr,74,86,"['classic oklahoma country', 'modern country pop']",2496766
+646,Grupo Marca Registrada,1gW6pz5n1aK249L0GvfQCC,Di Que Sí,0pliiCOWPN0IId8sXAqNJr,77,76,"['corrido', 'norteno', 'sad sierreno']",3316125
+647,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Yes or No,2gkVEnpahpE3bQuvGuCpAV,83,88,['k-pop'],10924148
+648,Jimin,1oSPZhvZMIrWW5I41kPkkY,Like Crazy (English Version),6EY9e6LyPWmL8hUS5E1P0h,79,80,['k-pop'],6820194
+649,Natanael Cano,0elWFr7TW8piilVRYJUe4P,AMG,0FxtC8uFapbpDBliAU3sd6,79,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+650,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,WORTH IT (feat. Don Toliver),7kp6XhIxrvNb8BgTwLjaEx,78,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",3184634
+651,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,Memory Lane,5kB6WithhB8Iv08EMNmAbt,73,67,"['contemporary country', 'country', 'country road', 'modern country rock']",1427509
+652,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Moment Of Your Life (feat. Coco Jones),4mYSL3RDHto3rcl7I57ndv,72,82,"['r&b', 'rap']",4864019
+653,Natanael Cano,0elWFr7TW8piilVRYJUe4P,O Me Voy O Te Vas,127UT7AiWflJwjXWUBBVTQ,84,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+654,KAROL G,790FomKkXshlbRYZFtlgla,S91,7EpOXgSRgnglRWr86pZfGU,83,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+655,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,LOOOVE (feat. Kid Cudi),0a4SMs889NwP8oWI7Vemle,77,90,"['hip hop', 'rap', 'slap house']",24940449
+656,Tyler Hubbard,3BEV5FcxOtkQJ7lLRKMh3V,5 Foot 9,0U4iRayct65wsaBMQGiLbg,73,62,"['contemporary country', 'modern country pop']",102346
+657,Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,Superpowers,736PP5LTtREkDgktNmX3Gu,75,78,['canadian contemporary r&b'],4709006
+658,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,Safehouse,5UOVAi0nL5PBj6OJLat2xO,71,68,['southern hip hop'],237718
+659,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Hate You,5ONOlTiqymhzwcFjqcIT6E,83,88,['k-pop'],10924148
+660,Drake,3TVXtAsR1Inumwj472S9r4,Fear Of Heights,2GB0DlX5l8gmqAW0SQa6yF,75,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+661,Jimin,1oSPZhvZMIrWW5I41kPkkY,Set Me Free Pt.2,59hBR0BCtJsfIbV9VzCVAp,82,80,['k-pop'],6820194
+662,Hozier,2FXC3k01G6Gw61bmprjgqS,Francesca,6QnfsyzifAJJrNHYTO6j9J,71,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+663,Laufey,7gW0r5CkdEUMm42w9XpyZO,Lovesick,39fD0qvjgk8RarJnoBiDTx,76,77,['gen z singer-songwriter'],2052338
+664,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,Negro Como La Pantera,1QpM1kB7sggMOBuWUNUnfg,77,76,"['corrido', 'sierreno']",882628
+665,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Love For A Thug,694k4TfDqOqmhebj79li54,71,78,['florida rap'],5787712
+666,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,DE LUNES A LUNES,7yci6r0cjX0Np5AshDZOsR,83,80,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",13180407
+667,Post Malone,246dkjvS1zLTtiykXe5h60,Enough Is Enough,3BHFResGQiUvbYToUdaDQz,80,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+668,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,Sobras y Mujeres,69kFrD7Mi8MJq9tAvJaYqO,77,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+669,Natanael Cano,0elWFr7TW8piilVRYJUe4P,Mas Altas Que Bajadas,4Zx0yrZwW4uNpd1FhIrOV5,83,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+670,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,FAN,166lmjn9xjWj1AEdGX8PYh,75,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",3184634
+671,2 Chainz,17lzZA2AlOHwCwFALHttmp,Presha (with Lil Wayne),6N7TGPYfGP2oxiy9Cpaz9G,73,73,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",8032487
+672,Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,Always Been You,53UMRr4KOgZP5Ins0aGlhs,75,70,"['alt z', 'modern country pop', 'singer-songwriter pop']",702477
+673,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,ROSA PASTEL,4yjeRuoVickg1G87LWeRes,78,90,"['corridos tumbados', 'sad sierreno']",8745657
+674,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,Can't Break Up Now,3vsdSgCvepm6kroIPLa4Oz,72,67,"['contemporary country', 'country', 'country road', 'modern country rock']",1427509
+675,Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,PICARDÍA,05OnZaYopHpb0z7ktT2FIF,80,85,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",19176252
+676,The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,WHAT JUST HAPPENED,2djNsYsA71cIs4A8YaF59J,78,79,['australian hip hop'],4849548
+677,Drake,3TVXtAsR1Inumwj472S9r4,Daylight,5QvUAv8nPnnA3AL20pgx46,75,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+678,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Last Kiss (Taylor's Version),59KOoHFcw5XfICnO57holu,77,100,['pop'],91476272
+679,310babii,4VCriUU9CsPnUvoAsxVk1p,Soak City (Do it),5C8h9PY9oTneqJihbn10NB,73,55,[],11682
+680,Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,DILUVIO,2kz1YOhJiNubjigR1gB1VX,85,85,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",19176252
+681,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Attention,11xC6P3iKYpFThT6Ce1KdG,77,87,"['dance pop', 'pop']",27104305
+682,Labrinth,2feDdbD5araYcm6JhFHHw7,Never Felt So Alone,6unndO70DvZfnXYcYQMyQJ,78,76,"['indie poptimism', 'pop']",3081808
+683,TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,Back for More (with Anitta),6uTPA1xlcsk6dbchB2dhzl,83,77,"['k-pop', 'k-pop boy group']",8947997
+684,Pecos & the Rooftops,5KbiLoVLLIHM5vZ0RM9WMU,This Damn Song,7hSdspr7RBzq8VYOSVwALb,71,54,"['modern country pop', 'red dirt']",107675
+685,LE SSERAFIM,4SpbR6yFEvexJuaBpgAU5p,"Eve, Psyche & The Bluebeard’s wife",4QhnNyKDsAkXPwHkSnuc89,82,74,['k-pop girl group'],3390703
+686,Brray,1GKIlPFdcewHtpDVCQ8zmJ,Corazón Roto pt. 3,3LzAFrnO7CxaeBgtQhHsAP,86,73,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",325278
+687,Beyoncé,6vWDO969PvNqNYHIOW5v0m,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),6l8mgVN9Xf1hiDIFGA6CTE,75,83,"['pop', 'r&b']",36209399
+688,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Wherever I Go,6P76Ve1pRObGGpuUTbYwsA,72,82,"['r&b', 'rap']",4864019
+689,d4vd,5y8tKLUfMvliMe8IKamR32,Sleep Well,5ye1TParxcolbnNsOXO8qE,80,75,"['bedroom pop', 'bedroom r&b']",1898310
+690,CHINCHILLA,7iNrvS80wnHDGVxw3qNRiI,Little Girl Gone,56rpEOCBATYItSa4yPksfe,76,57,[],151022
+691,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,La Tierra del Corrido - Spotify Singles,1oZqJaE23GEn4SOFQcnTPB,80,85,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",5566162
+692,Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,EVIL,6UW10CbMTvqciT3X3Ldeox,76,77,"['alt z', 'electropop', 'pop']",18630673
+693,Odetari,7ITMCzIU9uII8gwRg8JAhc,WET DREAMS (w/ Nimstarr),4as0bvI0a6VSgjWObsvwhi,76,79,"['sigilkore', 'sped up']",1571331
+694,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,Fell In Love (with Ken Carson),302EsF6DE70LfngVNLlqo5,74,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+695,Jhayco,6nVcHLIgY5pE2YCl8ubca1,Ex-Special,4ix1NGkHZEiVyzoQ6cEVs3,81,81,"['reggaeton', 'trap latino', 'urbano latino']",6953445
+696,John Summit,7kNqXtgeIwFtelmRjWv205,Where You Are,4qDpLaFGf5ampf2DXD2TMA,78,65,"['house', 'pop dance', 'tech house', 'uk dance']",187160
+697,Yandel,0eHQ9o50hj6ZDNBt6Ys1sD,Yandel 150,4FAKtPVycI4DxoOHC01YqD,84,76,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",7331537
+698,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,Quedate Conmigo,2lqHosXoRrzxh42th6Mi7a,75,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",4913584
+699,Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,Keep It Low (feat. Future),293QwzG48nRXlqk5lGDUbw,72,73,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",4103329
+700,BTS,3Nrfpe0tUJi4K4DXYWgMUX,Take Two,5IAESfJjmOYu7cHyX557kz,85,84,"['k-pop', 'k-pop boy group', 'pop']",70707690
+701,Lumi Athena,1TTHC3GlNDaE5eVoC3BVxm,SMOKE IT OFF!,4mMEvkDeY56be4l7Itb5aZ,79,70,"['sigilkore', 'sped up']",579701
+702,Superstar Pride,3FBEsNyIwRnOHOf1Rv3SLa,PAINTING PICTURES,6RGH7mvHffrBcHuW60vgZB,75,54,['southern hip hop'],57755
+703,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Belong To You (feat. Babyface Ray),4qulzmZFfKLVcfpGXXCP9H,71,82,"['r&b', 'rap']",4864019
+704,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Boyz Don't Cry,5VXGNoY8O9qRJUYMciPTfc,71,78,['florida rap'],5787712
+705,Anuel AA,2R21vXR83lH98kGeO99Y66,Mas Rica Que Ayer,3XjvMZqm2AQ8thMCD6w9w2,82,85,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",33340273
+706,KAROL G,790FomKkXshlbRYZFtlgla,S91,0BFQC00Y58JtjMyTXOJazO,81,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+707,VØJ,4KRllJ2dEeoqvxOQLOgOsI,Memory Reboot,1A7qPfbcyRVEdcZiwTFhZI,84,66,['traprun'],96482
+708,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Wish You The Best,3gdPwk2wyOXNRnTA1KXnEr,83,78,"['pop', 'uk pop']",11871775
+709,jnhygs,0H942IkjXv9bjx5OxoG7kh,XTAYALIVE,1JjiTsqfpfMoukoIW9cM5O,76,69,"['sigilkore', 'sped up']",195119
+710,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Boyz Don't Cry,3DcfXXPsVIjU1UgY0YBtAM,71,78,['florida rap'],5787712
+711,Jimin,1oSPZhvZMIrWW5I41kPkkY,Alone,5Hfnps0jaWFpYg55WOPexG,82,80,['k-pop'],6820194
+712,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,I Deserve A Drink,7u2iWRkkz8GBYFe4apxVBl,72,85,['contemporary country'],7537077
+713,Ken Carson,3gBZUcNeVumkeeJ19CY2sX,Nightcore 2,6p1j9OP2IBdzR5tgtyJk10,73,77,['rage rap'],809613
+714,Hozier,2FXC3k01G6Gw61bmprjgqS,First Time,4LesrBswFnLcHmwDslst1q,71,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+715,The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,LOVE AGAIN,4sx6NRwL6Ol3V6m9exwGlQ,78,79,['australian hip hop'],4849548
+716,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Checkmate,0qa1qa4OCFCfgiNYLjMzCH,71,78,['florida rap'],5787712
+717,AJR,6s22t5Y3prQHyaHWUN1R1C,Yes I'm A Mess,4Yrt54xR4T8PPOZ7yf9kyT,74,70,['pov: indie'],3081112
+718,sapientdream,4wOqWyXZiVMLchDC2H9CyP,Past Lives,3oELxRDbAzyvOodhd5FQzB,79,58,[],60974
+719,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Pistachios,18y43ozfWR9sp5vaD9cEqe,72,82,"['r&b', 'rap']",4864019
+720,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,DArkSide,19vHgVS1aukRiQWhTqfKnE,80,76,"['melodic metalcore', 'metalcore', 'modern rock', 'rock', 'uk metalcore']",5157221
+721,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Dance The Night,11C4y2Yz1XbHmaQwO06s9f,81,84,"['dance pop', 'pop', 'uk pop']",41961753
+722,HARDY,5QNm7E7RU2m64l6Gliu8Oy,wait in the truck (feat. Lainey Wilson),49GYvCcvMQq1SY3f7Y347h,71,71,"['contemporary country', 'modern country pop']",554303
+723,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,Glizock & Wizop (feat. Key Glock),0zbGWzQkLY5wn4xyiLYEi0,73,74,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",5100516
+724,Drake,3TVXtAsR1Inumwj472S9r4,Amen (feat. Teezo Touchdown),67OuG8NBDeKLkXWnsMFCki,75,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+725,Mora,0Q8NcsJwoCbZOHHW63su5S,REINA,0QRHOAeU8JRaVVn3UoZBih,88,84,"['trap latino', 'urbano latino']",3121237
+726,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,Las Morras,7Lkxvfl2rkNYWS4kBDCQtN,78,90,"['corridos tumbados', 'sad sierreno']",8745657
+727,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Peppers (feat. Tommy Genesis),2Rlso2ZNV0PaWwUYeeBYxx,79,88,"['art pop', 'pop']",29366429
+728,Restless Road,5XLWHp9tjK7PWm7SMcvo2q,Last Rodeo,2neydrTb5GVPRHNNmW0iPP,72,56,['modern country pop'],142002
+729,"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,SORRY NOT SORRY,410ZZP746AQeiywhKvXWCo,74,82,"['hip hop', 'rap']",13017810
+730,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,LOST FOREVER (feat. Westside Gunn),7EiUtdeoWcKqLi5ELZCjYf,77,90,"['hip hop', 'rap', 'slap house']",24940449
+731,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Go Off,032UZ3KVrzII6AE9Abnj7z,75,87,"['dance pop', 'pop']",27104305
+732,SEVENTEEN,7nqOGRxlXj7N2JYbgNEjYH,God of Music,4MTNimMDRyFZv37Thcktwa,82,78,"['k-pop', 'k-pop boy group']",10474798
+733,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith),22dUzMFttcR3uU17NcOAIv,87,82,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",23414711
+734,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,3D (feat. Jack Harlow) (Clean Ver.),0TaaG2kxjzSjVbmmiiSZEa,85,88,['k-pop'],10924148
+735,Junior H,7Gi6gjaWy3DxyilpF1a8Is,TRES BOTELLAS,2CshODtf7iwe3pKlPmEWF5,80,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+736,Lah Pat,6dhd3wcal02KeLBk5wScfd,Rodeo (Remix),035MzEbx4z2DxuRDymHXbv,81,59,['pop rap'],25870
+737,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,WY@,3ria9Axw5mheRAOoP9bnof,71,82,"['r&b', 'rap']",4864019
+738,Rundown Spaz,4W7fxKwDR9luCrOryB3GVK,First Day Out (Freestyle),7idI4LLo9LVLqrvvzhSj3n,72,58,['rva drill'],37860
+739,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,NFL,1X1dy95bo2OirAmMkBIwkS,73,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
+740,Elevation Worship,3YCKuqpv9nCsIhJ2v8SMix,"Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",7Ee6XgP8EHKDhTMYLIndu9,76,71,"['ccm', 'christian music', 'world worship', 'worship']",2753825
+741,King Gnu,6wxfx1yhyqjCPYwwxJktR2,SPECIALZ,0GWNtMohuYUEHVZ40tcnHF,86,70,"['j-pop', 'j-rock']",3003773
+742,фрози,3IIpbS5XHnLSdXTP4c1YN2,supїdo,0iTrYSvCB4NDvQR3DsFt6T,78,60,[],52187
+743,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,It Takes A Woman,64lQdlm7FlF0AYZsRaZlBP,72,77,"['contemporary country', 'outlaw country']",6280135
+744,Iniko,2ih5M0aTrQ97JX1nZuxDQY,Jericho,4ztdjZ2t7BVo5DLIFQBdJh,79,59,['high vibe'],568126
+745,IVE,6RHTUrRF63xao58xh9FXYJ,I AM,70t7Q6AYG6ZgTYmJWcnkUM,83,74,['k-pop girl group'],3066002
+746,Tatsuya Kitani,7mvhRvEAHiCTQHUnH7fgnv,青のすみか,12usPU2WnqgCHAW1EK2dfd,85,65,['japanese electropop'],260235
+747,Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,Heaven,5FQ77Cl1ndljtwwImdtjMy,79,73,['pop'],9835177
+748,Drake,3TVXtAsR1Inumwj472S9r4,Rich Baby Daddy (feat. Sexyy Red & SZA),1wfYQIXAzt300l6i1aYiNS,75,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+749,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,Black Friday,1XTY6rA7XQosc0ynkkE9kN,82,74,['chill pop'],3535635
+750,Brian Kelley,46c50yWMo9wiTgVe1VxBbQ,See You Next Summer,7Ez0QMtgIQ60BOHGHh3yPc,71,50,['modern country pop'],23069
+751,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Whiskey Friends,2ewSCWOL7EAjgmgqfI1UlS,71,85,['contemporary country'],7537077
+752,jnhygs,0H942IkjXv9bjx5OxoG7kh,SHAKE THAT SHIT!,0zPlzJewGJ8iIxia2bEWDN,75,69,"['sigilkore', 'sped up']",195119
+753,Kany García,69UypehHabb68utzfjAVlV,Te Lo Agradezco,0NnbCdowqhKtgtNEQ9oeBX,83,71,"['latin pop', 'puerto rican pop']",2406164
+754,Macroix,3ooxJFdCXxyk6heox7EOPV,Promised,1fSln3JhzB7Asdi83JTvPa,77,54,[],566
+755,Lovejoy,33tFkBLsl6f8TjKkV0uF0C,Normal People Things,1vJmd8YIIAz6XQ9GHlUr5p,76,67,"['pixel', 'pov: indie']",1431438
+756,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Please Don't Change (feat. DJ Snake),0k0GtcnyQLMiXrdEDbLXmJ,82,88,['k-pop'],10924148
+757,Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,Glory Days,7qaMlLPdwNiiU1Uiy1oAdO,71,61,['contemporary country'],293707
+758,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,Texas,2p5La0D38fkvhobrC1HRCU,70,68,['southern hip hop'],237718
+759,*NSYNC,6Ff53KvcvAj5U7Z1vojB5o,Better Place (From TROLLS Band Together),1bHnRc60O1N0l3PbHjaKyK,77,68,"['boy band', 'dance pop', 'pop']",2153777
+760,PinkPantheress,78rUTD7y6Cy67W1RVzYs7t,Mosquito,0LzidBf7cUsnZnG34OUPSF,76,74,['bedroom pop'],2539585
+761,Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,Mona Lisa (Spider-Man: Across the Spider-Verse),37CoOXIsgF3NzbK1zHZetk,77,74,"['alternative pop rock', 'pov: indie']",1383319
+762,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,SU CASA,1tGGJ4SRZnd2H0E2dV05iM,77,90,"['corridos tumbados', 'sad sierreno']",8745657
+763,Luke Grimes,7Cezk2wEDBPfYCwEuKum1Y,Hold On,1fOvzFCRA3Ko0ihc2QTE29,71,54,['modern country pop'],60012
+764,JENNIE,250b0Wlc5Vk0CoUsaCY84M,You & Me (Coachella ver.),0Vz146N2GxkVJw4kSGXrNi,79,74,['k-pop'],4445486
+765,Hozier,2FXC3k01G6Gw61bmprjgqS,Damage Gets Done (feat. Brandi Carlile),2OLaeJRrRjFgLfTsccnzlM,70,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+766,Post Malone,246dkjvS1zLTtiykXe5h60,Something Real,444vevlQjTnKioLLncteGv,75,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+767,Sexyy Red,3DbwFQlvLxRSi2uX8mf81A,Pound Town 2 (feat. Nicki Minaj & Tay Keith),6IEXjer2qbXhRLFv99NQQv,71,72,['trap queen'],303113
+768,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,ZAPATA,3CEk3KwDixeCKOVPacup7L,77,90,"['corridos tumbados', 'sad sierreno']",8745657
+769,KAROL G,790FomKkXshlbRYZFtlgla,CAIRO,16dUQ4quIHDe4ZZ0wF1EMN,81,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+770,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Somebody,5KfJvZ0PZzRdwFRaTUDAA7,82,88,['k-pop'],10924148
+771,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Back Lit,10QtceSp0oOi9AfEymzTRG,70,78,['florida rap'],5787712
+772,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,La Fresa,1PexKCGqX41T01rtTH08YN,77,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",4913584
+773,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,New Perspective,1mAfZYkVfwcPuqqPJZ1Opu,72,81,['pov: indie'],1483988
+774,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Closer to You (feat. Major Lazer),06Qo2fYR2KS1F7bL338iVT,82,88,['k-pop'],10924148
+775,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,ca$h $hit,48rsYvIQXUAtxcmIoStOaM,74,82,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6160788
+776,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,Como Pancho Villa,2jZlmAzzsdaVZQk9GmJOmb,75,76,"['corrido', 'sierreno']",882628
+777,LUCKI,5tQMB0cuNXdCtzovGt55uD,2021 Vibes,6TJaoJX8VhptZ0DkcsjWaR,71,72,['plugg'],662740
+778,d4vd,5y8tKLUfMvliMe8IKamR32,This Is How It Feels (with Laufey),6BQPRUFGHsgtNYJxuwhktR,75,75,"['bedroom pop', 'bedroom r&b']",1898310
+779,LE SSERAFIM,4SpbR6yFEvexJuaBpgAU5p,UNFORGIVEN (feat. Nile Rodgers),51vRumtqbkNW9wrKfESwfu,82,74,['k-pop girl group'],3390703
+780,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Margaret (feat. Bleachers),1o82DwNisONAd2mu1RcGE6,76,88,"['art pop', 'pop']",29366429
+781,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,On This Side (feat. A$AP Ant & CruddyMurda),3jbmFRlCmqYOfjKXe1ve82,70,82,"['r&b', 'rap']",4864019
+782,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,Cobra,3Kh8X9lHztqVBTgw30HbXn,73,75,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",8108684
+783,Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,Waffle House,4inPxqHrj9VmjLx5JCDCV4,74,74,"['boy band', 'pop']",7279644
+784,Odetari,7ITMCzIU9uII8gwRg8JAhc,DOUBLE TROUBLE,0EvsatxXGGHUxaAlksEeNK,75,79,"['sigilkore', 'sped up']",1571331
+785,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,VAGABUNDO,1MB8kTH7VKvAMfL9SHgJmG,87,78,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",22500856
+786,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,Gist,6dkffLWo31KnXmwCLsgA2K,73,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+787,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Keep It G,2mexnPoWLPhuA6yocViyge,70,78,['florida rap'],5787712
+788,Fred again..,4oLeXFyACqeem2VImYeBFe,ten,5QOBT97OmYCZo1W5u7tRrB,80,75,"['edm', 'house', 'stutter house']",1051684
+789,Brray,1GKIlPFdcewHtpDVCQ8zmJ,Corazón Roto - Remix,6k5wiT5l9DK8iZmhvEvoqo,84,73,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",325278
+790,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,Granite,4mxiv6HQfhqgIuN5iOONQd,73,70,['prog metal'],751274
+791,Reneé Rapp,2hUYKu1x0UZQXvzCmggvSn,Pretty Girls,1dh5DUke1yHJzIF3Sa7nXC,74,65,['alt z'],323991
+792,Post Malone,246dkjvS1zLTtiykXe5h60,Chemical,7jvtmQ3onpWeUm7dyFSSSc,75,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+793,Key Glock,0RESbWvOMyua0yuyVrztJ5,Let's Go,5GCU2LJWPzoP8Q6nexs61z,72,74,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",1763716
+794,Babyface Ray,3zZ88AwlTwfCJkowsFCvLA,Ron Artest,4Wlz0HsHZlJy0NDK2h6jq6,71,62,"['detroit hip hop', 'detroit trap']",229006
+795,AKAB Dark Dog,5Wx9iSYLePJp5NebrxFzcX,Futuro,7igdQmBTT2pg6MJ6lsEQRy,69,46,[],159
+796,Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,La Mamoncita del Insta,4Dg3WEqGpBbSu4EKjudiwV,78,81,"['corrido', 'sierreno']",1173145
+797,Rema,46pWGuE3dSwY3bMMXGBvVS,Calm Down (with Selena Gomez),1s7oOCT8vauUh01PbJD6ps,81,76,"['afrobeats', 'nigerian pop']",3422437
+798,Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,Mama's Boy,0b6xZk9f96N77BfmYWnQNC,75,74,"['alternative pop rock', 'pov: indie']",1383319
+799,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Shot Glass of Tears,7AbqgE05nFl9qY4FRUiq2p,82,88,['k-pop'],10924148
+800,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,THE GIRLS - BLACKPINK THE GAME OST,1mFpMoeZfkIqtqW2AfQ8ba,79,80,"['k-pop', 'k-pop girl group', 'pop']",46576681
+801,Wisp,3TJZG17pjOKXwx1ELKJPfm,Your face,7ne2hzW4jaU5tacaCI4kJH,74,53,[],91220
+802,Sam Smith,2wY79sveU1sp5g7SokKOiI,Unholy (feat. Kim Petras),0NZPBYD5qbEWRs3PrGiRkT,81,82,"['pop', 'uk pop']",23282644
+803,Grupo Marca Registrada,1gW6pz5n1aK249L0GvfQCC,Di Que Si,0kzN7YAMSbmlHOvxlbQW9y,77,76,"['corrido', 'norteno', 'sad sierreno']",3316125
+804,Com Truise,2wouN3QXejYa5tKetYdcVX,4 Morant (Better Luck Next Time),3XOmSRuEEq7rK4XNzWQdyT,75,54,"['chillwave', 'indietronica', 'vaporwave']",251930
+805,Grupo Marca Registrada,1gW6pz5n1aK249L0GvfQCC,Princesa,1JhGcvVRdJoteIf56GkGwf,74,76,"['corrido', 'norteno', 'sad sierreno']",3316125
+806,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,Too Sad to Dance,3bNNvJA7hsGw0wSpGkfOBm,81,88,['k-pop'],10924148
+807,Drake,3TVXtAsR1Inumwj472S9r4,7969 Santa,2PHAwk4AGIF6dLyWpJjiqB,74,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+808,aespa,6YVMFz59CuY7ngCxTxjpxE,Better Things,6zZWoHlF2zNSLUNLvx4GUl,81,71,['k-pop girl group'],3930766
+809,YOASOBI,64tJ2EAv1R6UaZqc4iOCyj,アイドル,7ovUcF5uHTBRzUpB6ZOmvt,84,75,"['j-pop', 'japanese teen pop']",6666320
+810,King Breez,1w9KqqVyPPhISVUxlSlv3U,Ain’t Bout Chu,7uRN5X32EWKHa5d01CDikL,69,46,[],182
+811,alex_g_offline,0bC6e2YtIRLbKx2txHFmEo,Break,4Rsv5fRmgTH88RLp7xN5sz,73,60,[],94892
+812,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,DELRESTO (ECHOES) (feat. Beyoncé),0OEe83mMZ5kaNw5uZQ7ilG,77,90,"['hip hop', 'rap', 'slap house']",24940449
+813,Labrinth,2feDdbD5araYcm6JhFHHw7,Never Felt So Alone,2NbsBSshscKIPRG3kwBbfo,78,76,"['indie poptimism', 'pop']",3081808
+814,jnhygs,0H942IkjXv9bjx5OxoG7kh,JERK!,6FRiFD0r9Mnv9VFnW4A7wB,74,69,"['sigilkore', 'sped up']",195119
+815,Drake,3TVXtAsR1Inumwj472S9r4,8am in Charlotte,6NWlMpjEXx3u9f5liDGuE5,75,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+816,KaMillion,3ZydLzGMI3JnkcfVrbh6Vn,BORED,4rWVXriWiH9Dqi7SCT9OcB,69,46,[],27569
+817,Young Miko,3qsKSpcV3ncke3hw52JSMB,wiggy,4xU4XeklG562EnanWzpY3A,84,81,"['trap latino', 'urbano latino']",1529989
+818,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,I Knew You Were Trouble - Spotify Singles,30QYxvXOJZhGBF6DvpNb8w,75,76,['pop'],6288414
+819,Warren Zeiders,7kplJl06UmldxLKseURAYi,Pretty Little Poison,0MIp9iBm1V41ERxkZnmSUG,71,65,['modern country pop'],486228
+820,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Love Story/Interlude,0wI9sEQbz9LlI7P1NDutmU,70,78,['florida rap'],5787712
+821,Post Malone,246dkjvS1zLTtiykXe5h60,Mourning,0gWrMbx6pbdH3n3nsLjE55,76,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+822,d4vd,5y8tKLUfMvliMe8IKamR32,You and I,1tuSpba0RXUMubHpAOWlMN,74,75,"['bedroom pop', 'bedroom r&b']",1898310
+823,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Double Fantasy (with Future),4VMRsbfZzd3SfQtaJ1Wpwi,79,92,"['canadian contemporary r&b', 'canadian pop', 'pop']",73996091
+824,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,In Your Love,1y3CG6thNhG1ndaNW0JuEp,70,75,"['kentucky indie', 'kentucky roots', 'outlaw country']",2089923
+825,Zach Templar,5YgOA27qcu8nSl1lp5ektj,missin something,790xAaylcgzyKm40GM95Gl,74,52,[],103997
+826,ATEEZ,68KmkJeZGfwe1OUaivBa2L,BOUNCY (K-HOT CHILLI PEPPERS),5KyOUICJIvO0z71MBdPGiX,79,69,"['k-pop', 'k-pop boy group']",3298082
+827,Laufey,7gW0r5CkdEUMm42w9XpyZO,Bewitched,0pfpeTGQOWlGp6YUUbBD42,74,77,['gen z singer-songwriter'],2052338
+828,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Big Mad Skit,7ztZP2QP0E3QEGG5NyRpX3,69,82,"['r&b', 'rap']",4864019
+829,Jey One,0B4uq7LA4vdVwFPDoOcVtw,Onana,5oVBCcGv1EX2foIs6X6GRw,77,58,['dembow dominicano'],120750
+830,Cartel De Santa,07PdYoE4jVRF6Ut40GgVSP,Shorty Party,55ZATsjPlTeSTNJOuW90pW,82,74,"['latin hip hop', 'mexican hip hop']",15642854
+831,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,180 (Lifestyle),4Q6LSSmQwn94hioXfvzdbU,71,85,['contemporary country'],7537077
+832,Abbey Cone,1N53jg6KZxBoFI9oWNchct,If You Were A Song,3vKAQFXRh0lkJdPuS5pclq,70,47,"['country pop', 'modern country pop']",5945
+833,Diplo,5fMUXHkw8R8eOP2RNVYEZX,Heartbroken (feat. Jessie Murph & Polo G),60eA3QITW5G2D7Woc11uKc,72,75,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",2576969
+834,Austin Snell,6Hd5hSFd33CfhMqtG3fjtx,Pray All The Way Home,7mhe8marcC1uyu17L5oxyF,70,54,['modern country pop'],44757
+835,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,3D (Alternate Ver.),2pLZ6tUBapqlngc9lnYz4M,80,88,['k-pop'],10924148
+836,Jay Wheeler,2cPqdH7XMvwaBJEVjheH8g,PACTO (feat. Bryant Myers & Dei V) - Remix,2VOXLA9TzOAVCjDi7RY5DV,83,75,"['reggaeton', 'trap latino', 'urbano latino']",3523166
+837,Bellakath,4yjm4SvYqC5FFuLbB6TyHr,Reggaeton Champagne,7yIIeKUxTpn36X6CFJhgEi,88,69,"['perreo', 'urbano latino', 'urbano mexicano']",325818
+838,Ryan Gosling,6kXm2YCtdUOpRYNKeKhfue,I’m Just Ken,3zXIvb4nZ3cTdT8CsbTy3U,77,61,['hollywood'],173966
+839,Lauv,5JZ7CnR6gTvEMKX4g70Amv,"Steal The Show - From ""Elemental""",6R5fYCySNHrqo4Og6O1ppn,79,74,['pop'],6026735
+840,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,Take Me Back To Eden,2Gt7fjNlx901pPRkvBiNBZ,73,70,['prog metal'],751274
+841,alt!,2JUbvars1Q5hnkRa8IglAa,RAHHHH,5NLnV0krXXSIOqL1PyAd1Q,75,55,[],18566
+842,Burna Boy,3wcj11K77LjEY1PkEazffa,City Boys,4RoKNqyZ9622tcAeNPNv5k,85,78,"['afrobeats', 'azontobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",7086287
+843,Jonas Sandberg,5JkM7qUhOcmY5SqK3SnU3O,Melancholy,569aPavFjL3WvPwZepX67d,75,52,[],237
+844,Laufey,7gW0r5CkdEUMm42w9XpyZO,Dreamer,1YxQxV5sKZN1TgVpXl5MLA,73,77,['gen z singer-songwriter'],2052338
+845,Carin Leon,66ihevNkSYNzRAl44dx6jJ,Ni Me Debes Ni Te Debo,3Zin1vaMx7PjFWIOBTE4FM,82,84,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",8632339
+846,LUCKI,5tQMB0cuNXdCtzovGt55uD,Leave Her,0MZGwYb5mTATbmoi671wEg,70,72,['plugg'],662740
+847,Dei V,2YRyPiW98bpkARAS4B3OQP,Narcotics (with Bryant Myers),0p0cOpBujR114Wirv5AM7W,83,73,"['trap latino', 'urbano latino']",186868
+848,Natanael Cano,0elWFr7TW8piilVRYJUe4P,Pacas De Billetes,1EZk1gal98tb4lNI862KzO,79,84,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",9278329
+849,Josh Ross,1ZGTSMjK1D2HrpPTOh916U,Trouble,7cRggVoZ18mmvIN2EcSQ3J,72,56,['modern country pop'],53439
+850,IVE,6RHTUrRF63xao58xh9FXYJ,Off The Record,3G7MgLuWLzUJQflWOCDZit,79,74,['k-pop girl group'],3066002
+851,Jroll,48WrgVifBSBqcB7fGnNDL5,Sundown,6ErDe47NGUuUCEEFSA7vfX,69,46,[],1512
+852,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Jaded,0LbZLBBZI1NfaDgb4dx0UD,78,82,['pop'],22524507
+853,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,Hummingbird (Metro Boomin & James Blake),6HexNTb392JS071DoTGo0y,75,85,['rap'],5971219
+854,Mac DeMarco,3Sz7ZnJQBIHsXLUSo0OQtM,20191009 I Like Her,3oUn55qKRZ1JFzfQNbJjS1,73,77,"['edmonton indie', 'lo-fi indie', 'pov: indie']",4762862
+855,GROOVY,6Y6qIKwe32BxNflpxbKsJc,jersey luv,50kWigrg0O9DFUzzbgJMZO,72,53,[],10839
+856,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,Save Me The Trouble,7hZTywPKMdVjJzwdWu11BK,70,69,"['contemporary country', 'country', 'country road']",3084922
+857,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Stick Season,7ibpNcYxrstM16ehN7OwbK,72,81,['pov: indie'],1483988
+858,NCT 127,7f4ignuCJhLXfZ9giKT7rH,Fact Check,5EtiQveQFQy0R05hLVDyKv,77,70,"['k-pop', 'k-pop boy group']",7225426
+859,Don Toliver,4Gso3d4CscCijv0lmajZWs,Embarrassed (feat. Travis Scott),6w9GrSUaQQIaMBYtabge7p,75,79,"['pop rap', 'rap', 'trap']",3396502
+860,Maddie & Tae,34bhyY8jfKez7uKakMfy4y,Heart They Didn't Break,4QzoBae05AxedOwsC8cqlh,70,59,"['contemporary country', 'country', 'country road', 'modern country rock']",1118427
+861,Chase Matthew,7HTLVyjNf0VRxfIgNcfRRH,Love You Again,7pvy3nhtBIQUakHS4OjFqB,70,62,['modern country pop'],181851
+862,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Pass You By,7AFApnZCpYBlq2R2lpVfUb,69,78,['florida rap'],5787712
+863,Flyana Boss,0CLW5934vy2XusynS1px1S,You Wish,0aoLgGE9S9qMjIGtTgpnNd,73,54,['trap queen'],145384
+864,V,3JsHnjpbhX4SnySpvpa9DK,Rainy Days,54bg1e6ABcZfpU3yzwxnPf,83,81,"['j-division', 'korean ost']",15942272
+865,Teddy Swims,33qOK5uJ8AR2xuQQAhHump,Lose Control,17phhZDn6oGtzMe56NuWvj,80,69,[],949424
+866,SEVENTEEN,7nqOGRxlXj7N2JYbgNEjYH,Super,3AOf6YEpxQ894FmrwI9k96,82,78,"['k-pop', 'k-pop boy group']",10474798
+867,Lay Bankz,4OVbrPbhvK46A1uXTU1u5F,Na Na Na,6G4ICKUrsPb117ULGyrQ5N,73,60,['jersey club'],71825
+868,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Other Boys,5WZlorRUxgryaweu7kqeHd,77,81,"['brostep', 'edm', 'pop', 'progressive electro house']",35052302
+869,Jimin,1oSPZhvZMIrWW5I41kPkkY,Set Me Free Pt.2,1fpj1CJPxY3YvN3AMAEYvt,81,80,['k-pop'],6820194
+870,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,Hope You Know,2Ge2ZhznMuO22wIQ9Z5Wql,72,78,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9866844
+871,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Wet Vagina,5MqauQV2PhcEFfhKtBOTua,74,87,"['dance pop', 'pop']",27104305
+872,blink-182,6FBDaR13swtiWwGhX1WQsP,ONE MORE TIME,1ja4311zfLHqUL96poSXfP,75,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",7885839
+873,KAROL G,790FomKkXshlbRYZFtlgla,OKI DOKI,4gJfPoMIcSDGY0tMGxm6Fu,78,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+874,Sexyy Red,3DbwFQlvLxRSi2uX8mf81A,Hellcats SRTs,1iK1hVN9o1zkpxw396QGbd,69,72,['trap queen'],303113
+875,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Fight The Feeling,7l6nGz4gp6HGs5Cvmdeqe4,70,78,['florida rap'],5787712
+876,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"Paris, Texas (feat. SYML)",0Oqxt6JixieLHbwMfnJGWO,77,88,"['art pop', 'pop']",29366429
+877,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Can't Wait,5ZyQqAgrPr0cVm0VfM69Np,73,87,"['dance pop', 'pop']",27104305
+878,Lauv,5JZ7CnR6gTvEMKX4g70Amv,Steal The Show,0SccFtYdj75y6lL2OW10Cf,75,74,['pop'],6026735
+879,DaBaby,4r63FhuTkUYltbVAg5TQnk,SHAKE SUMN (with Sexyy Red) - REMIX,3IxGpAFxBAAfCQ6dv6sBiw,70,77,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",11324254
+880,Charli XCX,25uiPmTg16RbhZWAqwLBy5,In The City,3xY5aYJcdvZX9xQxNd02ku,79,74,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3005641
+881,Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,Motion God,4FpgCVHDfwcHQ17hJ9SyuL,70,73,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",4103329
+882,Key Glock,0RESbWvOMyua0yuyVrztJ5,No Hook 2,2eLrDMQnosvAOTzoZ8bRZZ,71,74,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",1763716
+883,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,Whip It,3TmwzKk7dOnMka3Q7NvGht,69,68,['southern hip hop'],237718
+884,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,There I Go (feat. J. Cole & Mike WiLL Made-It),1llzRvV9QpuNHjPu0rVQSp,72,74,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",5100516
+885,lucidbeatz,4jEwTCIHu0hdDbamxScpou,Let U Go,40TZnaw4eDPChJNHw2Swf3,76,62,[],81778
+886,Måneskin,0lAWpj5szCSwM4rUMHYmrr,HONEY (ARE U COMING?),3tNMdL4qjzNHfo7rlVMESK,82,77,"['indie rock italiano', 'italian pop']",8053229
+887,Dom Dolla,205i7E8fNVfojowcQSfK9m,Saving Up,787Y2idwCU2Rk60Prv4wpr,75,65,"['australian house', 'deep groove house', 'house']",280820
+888,OHGEESY,3ppQEG71r7jVpI8RudzycF,GEEKALEEK (feat. Cash Kidd),2f9JzwRy6Ofr5ixvN0ojKt,70,63,['cali rap'],274133
+889,Junior H,7Gi6gjaWy3DxyilpF1a8Is,SERPIENTE,431Dwa4XSR1z1aWgmCisnP,78,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+890,Oliver Anthony Music,6IkfE2JyVoKwBZXvuytKX3,I Want to go Home,6AF00PUvxgVktZBMs7Apd4,71,68,['modern country pop'],707110
+891,KAROL G,790FomKkXshlbRYZFtlgla,GATITA GANGSTER,5bD6mFl116xCxVMLy7IK9F,81,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+892,noturgf,32ENZVmItiETXMCYfM1bbS,Suffocation - Slowed,15uq77MdhAjrnBuumngIsz,78,65,['sped up'],28561
+893,NF,6fOMl44jA4Sp5b9PpYCkzz,CAREFUL,7FET9gtiECWn7llt0sfvtU,73,77,"['hip hop', 'pop rap']",9161303
+894,Odetari,7ITMCzIU9uII8gwRg8JAhc,I <3 LATINAS,5ZYc494Yhj18o8nbG777LV,74,79,"['sigilkore', 'sped up']",1571331
+895,Young Miko,3qsKSpcV3ncke3hw52JSMB,ID,0crVjW9Jz8ktVuVXoUi187,81,81,"['trap latino', 'urbano latino']",1529989
+896,Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,Ya Corazón,49lbKqbCI8SmJfW64OYXGZ,78,81,"['corrido', 'sierreno']",1173145
+897,Baby Keem,5SXuuuRpukkTvsLuUknva1,The Hillbillies,1h6w4POXM2LfG4ZD4xUfZQ,73,75,"['hip hop', 'rap']",1804467
+898,Luke Combs,718COspgdWOnwOFpJHRZHS,5 Leaf Clover,52ChYmfu792MW2Ezv0whpk,73,81,"['contemporary country', 'country']",9487592
+899,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,Peligro,231mWjDxgJH5OEQFkVIW5p,68,90,"['corridos tumbados', 'sad sierreno']",8745657
+900,AKMU,6OwKE9Ez6ALxpTaKcT5ayv,Love Lee,1qosh64U6CR5ki1g1Rf2dZ,81,63,['k-pop'],1475668
+901,Demetrius,37ZlV1yFde41URmILUKHwA,Patient,0arUAO3KakMNLwrmmYB7BT,68,45,[],56486
+902,blink-182,6FBDaR13swtiWwGhX1WQsP,DANCE WITH ME,5k2KDcpVLgyy0dr7uzdJit,74,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",7885839
+903,Justine Skye,0jUQSUOcM7lxVn5eVGTkzQ,Collide (feat. Tyga),5kY2DRIom6dcVZbQb1SAX8,79,65,"['pop r&b', 'r&b']",807364
+904,Drake,3TVXtAsR1Inumwj472S9r4,Tried Our Best,0Zsd3Og9cqUKvOKaynfygj,73,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+905,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Ouchies,18EGw1StZNDftpUcX8PM74,74,87,"['dance pop', 'pop']",27104305
+906,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,In The Bible (feat. HARDY),2aw1aEAxMe05MZIS5XiK8U,70,85,['contemporary country'],7537077
+907,Hozier,2FXC3k01G6Gw61bmprjgqS,"I, Carrion (Icarian)",3EN1l4uUvFBOy3pD9we2jf,69,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+908,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Demons,6vb4kCEIM7zrwuHlxFbfeB,74,87,"['dance pop', 'pop']",27104305
+909,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Shutcho,4rjQxlKAIXbEqHzjrnYZ7x,73,87,"['dance pop', 'pop']",27104305
+910,Tiësto,2o5jDhtHVPhrJdv3cEQ99Z,BOTH,7mobUfp1aL8A6CdugCMWft,79,80,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",7142107
+911,Alexander Stewart,0znpFLuaey34oJTE1jHSnT,i wish you cheated,6ErCfbbI9BG4bK2djjKUvP,77,63,['singer-songwriter pop'],844051
+912,Young Miko,3qsKSpcV3ncke3hw52JSMB,Lisa,44FzVABpR2cciquTqADA0D,81,81,"['trap latino', 'urbano latino']",1529989
+913,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,All My Love,11F1Tpe5da6M6vKLbUjauU,71,81,['pov: indie'],1483988
+914,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Dawged Em Skit,18XQFcIlJef2vkl2Mh0GxJ,68,82,"['r&b', 'rap']",4864019
+915,Nardo Wick,0Njy6yR9LykNKYg9yE23QN,Hot Boy (feat. Lil Baby),31yydnZnSeCwkRPY7tlgQJ,70,66,"['florida drill', 'florida rap', 'southern hip hop']",869497
+916,Officialalex425,2cmqbSrv0RSUeYRuWkqSiQ,Dame Amor,5pzdnCfGS2uz5XjXx6gem3,77,56,"['corridos tumbados', 'sad sierreno']",125899
+917,Jonah Kagen,5KsRA81UaMVKvLNiwDySfp,The Roads,1z8cabK9f2r2pXWx30ErUW,72,55,['singer-songwriter pop'],111813
+918,Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,Pray,7MOCaEUbfGyq1K96umNVwJ,76,70,"['alt z', 'modern country pop', 'singer-songwriter pop']",702477
+919,Alana Springsteen,4TPT9nwjRvEV49q7f8p4fy,goodbye looks good on you (feat. Mitchell Tenpenny),2otAb5kIGdZzJCqcUHNztT,70,57,"['contemporary country', 'country pop', 'modern country pop']",55131
+920,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Neon Star (Country Boy Lullaby),1GiwvmI57OTGcKGNigZFJb,70,85,['contemporary country'],7537077
+921,Jack Black,0qpMYTgbXRi1ZcX6vend3T,Peaches,4w9soAM7IrmYDhSXLp14p6,75,53,"['comedy rock', 'comic']",111018
+922,Anuel AA,2R21vXR83lH98kGeO99Y66,OA,6gMj2DzKR2PjrrbNSwcGFR,86,85,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",33340273
+923,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Miracle (with Ellie Goulding),5eTaQYBE1yrActixMAeLcZ,86,82,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",23414711
+924,j-hope,0b1sIQumIAsNbqAoIClSpy,on the street (with J. Cole),5wxYxygyHpbgv0EXZuqb9V,79,68,"['k-pop', 'k-rap']",16399020
+925,Mitchell Tenpenny,1p6CdzJRoicjRcSdWoB9Qc,Bigger Mistakes,1pmBuw9a3r467tlzVZj0P4,70,62,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",427729
+926,flyingfish,4aCzIdK4ystmbXSZVyVrSG,wonder if u care,0KdEx2ETCXYZeEVAZS4sJ4,71,52,[],75865
+927,Quevedo,52iwsT98xCoGgiGntTiR7K,Buenas,4sDpxaulErbJ9NBaJDC7cJ,86,83,"['rap canario', 'trap latino', 'urbano latino']",3224999
+928,XG,0LOK81e9H5lr61HlGGHqwA,PUPPET SHOW,7sDkXyDikXhpRz715MdiEp,79,67,['k-pop girl group'],967032
+929,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,We Didn’t Start The Fire,60glT2wsoSHV3B8yCRSB8v,73,77,"['emo', 'modern rock', 'pop', 'rock']",10333074
+930,Shaboozey,3y2cIKLjiOlp1Np37WiUdH,Let It Burn,5OKlj1PEpzA4g0JSljysE9,70,55,['pop rap'],57035
+931,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,If We Were Vampires (feat. Wesley Schultz) - Spotify Singles,6LKvzEJQTIm2RrWAMPwQH6,71,81,['pov: indie'],1483988
+932,Lil Wayne,55Aa2cqylxrFIXC767Z865,Kat Food,6WYo4HDHHvMJZU1lNebB3V,71,83,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",14144830
+933,Diddy,59wfkuBoNyhDMQGCljbUbA,Another One Of Me (feat. 21 Savage),4hGmQboiou09EwhcTWa0H6,74,71,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'trap']",1585167
+934,Victoria Monét,63XBtGSEZINSyXylZxEUbv,We Might Even Be Falling In Love (Duet) - Spotify Singles,0wOtc2nY3NOohp4xSwOyTN,74,68,['alternative r&b'],823017
+935,Charlie Worsham,1nYvElumwIjMkOczb985bq,How I Learned To Pray (feat. Luke Combs),6DYtfjCJdFOXUlV3E9a9bI,70,49,['modern country rock'],32075
+936,Ice Spice,3LZZPxNDGDFVSIPqf4JuEf,Pretty Girl (with Rema),1p5GikXPiCkw5T2VrSPrO1,76,76,['bronx drill'],2285671
+937,Lauren Spencer Smith,79AyR6ATpj2LTPxfb6FX50,Fingers Crossed,4wH7ZoqgETaACS9BlUkvuY,77,68,"['alt z', 'gen z singer-songwriter']",1206017
+938,Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,Cowboys And Angels,6HhZDGrpQuj2iLiN1JCpyl,70,70,"['alt z', 'modern country pop', 'singer-songwriter pop']",702477
+939,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,Hands On Me (feat. Meghan Trainor),1TXbPx0WUaJM0fjDVs4wCD,75,76,"['dance pop', 'pop']",11935368
+940,IVE,6RHTUrRF63xao58xh9FXYJ,Either Way,6ezYHltHYhuJckdCsYsRJI,78,74,['k-pop girl group'],3066002
+941,Junior H,7Gi6gjaWy3DxyilpF1a8Is,MILES DE ROSAS,0N9YbdsoDv3SwT8wt4S5rT,77,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+942,TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,Do It Like That,7kaFsQygyiCqRboWCXztxZ,79,77,"['k-pop', 'k-pop boy group']",8947997
+943,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Born With A Beer In My Hand,1BAU6v0fuAV914qMUEESR1,70,85,['contemporary country'],7537077
+944,Drake,3TVXtAsR1Inumwj472S9r4,Bahamas Promises,4v3B7G0WQxcXQDrIcTUCsr,73,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+945,Fred again..,4oLeXFyACqeem2VImYeBFe,adore u,3YgtkOxZsTuaZdL8McA1FQ,84,75,"['edm', 'house', 'stutter house']",1051684
+946,Hozier,2FXC3k01G6Gw61bmprjgqS,Eat Your Young,2Jw3VjB1xy5KHBqEeAC6VK,70,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+947,TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,Sugar Rush Ride,0rhI6gvOeCKA502RdJAbfs,79,77,"['k-pop', 'k-pop boy group']",8947997
+948,Junior H,7Gi6gjaWy3DxyilpF1a8Is,MIÉNTELE,77ewVGidVJETHhGtlNelrg,77,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+949,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Never Grow Up (Taylor's Version),2EFZ9emtKWEglWUQGEQ3P9,75,100,['pop'],91476272
+950,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,She Calls Me Back,1KUINfIgNjnttphTi4imgI,71,81,['pov: indie'],1483988
+951,Lumi Athena,1TTHC3GlNDaE5eVoC3BVxm,ICEWHORE!,0RgKtaVv27Nff2y29qaD8W,77,70,"['sigilkore', 'sped up']",579701
+952,Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,I know it won't work,33uKUpu9ZXsHhcxRLoxnWI,74,70,['alt z'],1317048
+953,NF,6fOMl44jA4Sp5b9PpYCkzz,HOPE,12cZWGf5ZgLcKubEW9mx5q,74,77,"['hip hop', 'pop rap']",9161303
+954,Jenna Raine,3aHe9rMa5HFTjXHw8tEz0A,It Is What It Is,1558CwDaXSZiCplq9AaH0q,75,56,"['alt z', 'singer-songwriter pop']",167599
+955,Conner Smith,0y2FPygoi6LVc75pxCgsMk,Creek Will Rise,5owS9iWWGd6mDlFjUFzBsw,70,53,['modern country pop'],48009
+956,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Northern Attitude,0F2ptTeWy3Yf7kuFMyNdSb,71,81,['pov: indie'],1483988
+957,KAROL G,790FomKkXshlbRYZFtlgla,PERO TÚ,1dw7qShk971xMD6r6mA4VN,80,88,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",41224849
+958,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Karma (feat. Ice Spice),4i6cwNY6oIUU2XZxPIw82Y,75,100,['pop'],91476272
+959,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,Winner,3b5MPNYlX8ztJowxAwzTai,75,76,"['bedroom pop', 'pop', 'pov: indie']",8580049
+960,Rod Wave,45TgXXqMDdF8BkjA83OM7z,Rap Beef,6fDRECyrduLIU9HwbpsRR2,69,78,['florida rap'],5787712
+961,BabyTron,0sKsReKseslDlhxmbN6wLk,Out On Bond,07iXzCjxJdfHTUenA34iXt,69,66,"['detroit hip hop', 'scam rap']",351426
+962,Isabel LaRosa,5arKwJZEvT5uKq4o0JfqR4,eyes don't lie,2GWCZJWundoYi5IloWIgTX,80,71,"['dark r&b', 'hyperpop', 'sped up']",655955
+963,Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,How Much Is Weed?,44KWbTVZev3SWdv1t5UoYE,72,74,"['alternative pop rock', 'pov: indie']",1383319
+964,Clovis Reyes,1rPMCfJhANfBT78l2wf4d6,Fluxxwave,5K2onWVFDevmZ5y9AgiEcr,79,64,[],63733
+965,Junior H,7Gi6gjaWy3DxyilpF1a8Is,LAS NOCHES,0uQhDYHyoZe5DpncrPolb6,77,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",11256061
+966,Don Toliver,4Gso3d4CscCijv0lmajZWs,No Pole,0eaVIYo2zeOaGJeqZ5TwYz,72,79,"['pop rap', 'rap', 'trap']",3396502
+967,JIHYO,7F1iAHRYxR3MY7yAEuFqgL,Killin’ Me Good,4Cyf87ul1le0xTWRFBoYd7,79,61,[],425461
+968,Hozier,2FXC3k01G6Gw61bmprjgqS,Abstract (Psychopomp),5XNOw5EcLiqeqx8KDQY5Q6,69,79,"['irish singer-songwriter', 'modern rock', 'pov: indie']",6069608
+969,hako,71UHb0juSLfDoktgvCELin,listen!,12eAtj918bpsB4Vts8pCMu,74,58,[],31028
+970,Lauren Spencer Smith,79AyR6ATpj2LTPxfb6FX50,Bigger Person,2Kqw2ECnErSCU9bxPSVgGx,76,68,"['alt z', 'gen z singer-songwriter']",1206017
+971,blink-182,6FBDaR13swtiWwGhX1WQsP,FELL IN LOVE,3wIaPhVmXG6lcIPfm7D0fm,74,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",7885839
+972,JISOO,6UZ0ba50XreR4TM8u322gs,FLOWER,69CrOS7vEHIrhC2ILyEi0s,79,65,['k-pop'],1963369
+973,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Cruel Summer - LP Giobbi Remix,0pjBqAz8GlxGlpaU4W0DxS,74,100,['pop'],91476272
+974,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,A&W,5nW4z3pfZgJAJ2QTCz9AIE,76,88,"['art pop', 'pop']",29366429
+975,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,rodeo dr,2rjv9fXzpZDbB6lEeIoB3l,72,82,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6160788
+976,Lil Durk,3hcs9uc56yIGFCSy9leWe7,War Bout It (feat. 21 Savage),4muwDurKeVOB1WBjTVRWlD,71,80,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",6464360
+977,Shakira,0EmeFodog0BfCgMzAIvKQp,Copa Vacía,2iVgM5C7m1G4CJGbms301G,83,84,"['colombian pop', 'dance pop', 'latin pop', 'pop']",31855109
+978,Lil Mabu,6FAo7ORAHEzSSf5q10LLfN,RICH SCHOLAR,2hsNdc8rDVN2O5QOxbGayy,72,67,['meme'],790539
+979,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,Yves,7DRM6aQqMhVMweZ8H7UBei,71,78,"['melodic rap', 'pluggnb', 'rap']",6502431
+980,Taylor Swift,06HL4z0CvFAxyc27GXpf02,Ours (Taylor’s Version),3yNJkriPzWjkkDAWHIAVUq,74,100,['pop'],91476272
+981,akiaura,0zilOJ2Ze0FLrQ76cZQaoc,Sleepwalker,1IPHnu3hVkawJMzkP97tcm,80,61,['dreampunk'],40293
+982,Jon Reddick,7H0gjeKVq6IPXcAUZzzhD2,I Believe It (The Life of Jesus),2iym3PPUfaR5285b8iLfbq,71,58,"['ccm', 'worship']",28142
+983,Owen Riegling,0FDlMMfT3tLEKM0QdEIHYu,Old Dirt Roads,0ayd4fDb6rMZl9uqCY3Hzl,70,47,[],4119
+984,LECADE,5KfgJTNwvEbzMtJREyq9Jt,Sober Me Up,6W2k8I5gQGFZNQ1n97sCFV,70,58,['modern country pop'],42279
+985,sped up viral,3hYgfaELzhbTbvax70GtqM,moonlight (kali uchis) - sped up version,1TL4lgjSoc9SeKKjLhDO1n,80,58,['sped up'],25747
+986,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,Rain,0GXwlEXCO8qeeeOIYpsR3m,72,70,['prog metal'],751274
+987,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,Dance With You,5SIb4S2seQAeCHPXxiNHBL,69,63,"['contemporary country', 'country', 'country road', 'modern country rock']",1033574
+988,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,Halfway To Hell,3EON33SUQai62FI5Sv0gPT,69,74,"['country rap', 'nashville hip hop', 'tennessee hip hop']",2707854
+989,Labrinth,2feDdbD5araYcm6JhFHHw7,The Feels,3l3iCfpZsxbxWJhYoiQNkD,77,76,"['indie poptimism', 'pop']",3081808
+990,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,One in a Million,3YfGTvsTAWGC2lgoDOikUz,83,77,"['dance pop', 'pop']",8620518
+991,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Come Over,2P8i4ibQlXovki9IIPPubS,70,81,['pov: indie'],1483988
+992,Yahritza Y Su Esencia,51ZSh80McCt7vbqHouzW0A,Frágil,7BVMtLpd7edHeOizt4RWz9,79,68,['sad sierreno'],742486
+993,Bizarrap,716NhGYqD1jl2wI1Qkgq36,Fruto,4SW9gHnW8NfKOdqmh0ij45,91,84,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",13112309
+994,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,Split,3HqGDrSOZ6LbBfX5EsiaAj,72,81,"['pluggnb', 'rage rap']",3439622
+995,Rick Ross,1sBkRIssrMs1AbVkOJbc7a,SHAQ & KOBE,02K2VtGdUG5fUlAQATEgE6,72,74,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']",7084870
+996,Post Malone,246dkjvS1zLTtiykXe5h60,Overdrive,3t0ic4mkhvhamrKDkulB8v,77,86,"['dfw rap', 'melodic rap', 'pop', 'rap']",42558785
+997,The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,BLEED,3CJrKExvAP6RCtUR8Cf99P,75,79,['australian hip hop'],4849548
+998,Drake,3TVXtAsR1Inumwj472S9r4,Slime You Out (feat. SZA),6KMbZt7u6AlDia2NPO0Liv,72,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",81476124
+999,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Spin Again,1pDbGAAH5GQ8U0KG4fI77H,70,83,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",16127599
